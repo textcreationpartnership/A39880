@@ -1,0 +1,1680 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and both Houses of Parliament for you (who have known sufferings) now (in this the day of your prosperity) in the fear and vvisdom of God, to read over and consider these sufferings of the people of God in scorn called Quakers, which they have suffered in the dayes of the Commonwealth, and of Oliver and Richard Cromwel, and which they now suffer in your day for conscience sake, and bearing testimony to the truth, as it is in Iesus ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39880</idno>
+            <idno type="STC">Wing F1436</idno>
+            <idno type="STC">ESTC R35539</idno>
+            <idno type="EEBO-CITATION">15360125</idno>
+            <idno type="OCLC">ocm 15360125</idno>
+            <idno type="VID">103495</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103495)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and both Houses of Parliament for you (who have known sufferings) now (in this the day of your prosperity) in the fear and vvisdom of God, to read over and consider these sufferings of the people of God in scorn called Quakers, which they have suffered in the dayes of the Commonwealth, and of Oliver and Richard Cromwel, and which they now suffer in your day for conscience sake, and bearing testimony to the truth, as it is in Iesus ...</title>
+               </titleStmt>
+               <extent>[5], 32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Richard Moore [and 20 others]</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Persecution --  England.</term>
+               <term>Liberty of conscience --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103495:1"/>
+            <p>For the KING And both Houſes of PARLIAMENT. For you (who have known Sufferings) now (in this the day of your proſperity) in the Fear and VViſdom of God, to read over and conſider theſe Sufferings of the People of God in ſcorn called Quakers, which they have ſuf<g ref="char:EOLhyphen"/>fered in the dayes of the Common-wealth, and of <hi>Oliver</hi> and <hi>Richard Cromwel,</hi> and which they now ſuffer in your day for Conſci<g ref="char:EOLhyphen"/>ence ſake, and bearing Teſtimony to the truth, as it is in Ieſus.</p>
+            <list>
+               <item>For which there have ſuffered Impriſonments, Stockings, Whippings, loſſe of goods and other abuſes, which is hereafter more at large expreſt; Together with the cauſes wherefore they have Suffered, and ſtill do ſuffer. 3179. Perſons.</item>
+               <item>And there lies yet in Priſon that were committed in the Names of the Common Wealth, and of <hi>Oliver</hi> and <hi>Richard Cromwel</hi> that we know of. 79.</item>
+               <item>Alſo there hath dyed in Priſon in the Common Wealth, and <hi>Oli<g ref="char:EOLhyphen"/>vers</hi> and <hi>Richards</hi> dayes. 32. Perſons.</item>
+               <item>And there is Impriſoned in the Kings Name ſince his Arrival, one whereof dyed in Priſon. 177. Perſons.</item>
+               <item>So there is at preſent in Priſon in all we know of. 256. Perſon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+            </list>
+            <p>And beſides the meetings are daily broken up by men with Clubs and Arms (whic<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> peaceably meets, according to the people in the Primitive Times, and are thrown into Waters, and trod upon, till the very blood guſht out of them, by rude people, the number of which meetings that have been broken up, can hardly be uttered.</p>
+            <pb facs="tcp:103495:1"/>
+            <p>And this we would have of you, to ſet them at liberty that lies in Priſon, in the Name of the Common Wealth, and of the two Protectors, and in the Kings Name, for ſpeaking the Truth and for good Conſcience ſake, who cannot lift up a hand againſt you nor no man; and that our meetings may not be broken up by rude people with their Clubs, and Swords, and Staves, who peaceably meet together in the Fear of God to Worſhip him.</p>
+            <p>And one of the greateſt things that we have ſuffered for is, becauſe we could not Swear to the Protectors and all the changeable Governments, and now are we impriſoned becauſe we cannot take the Oath of Allegiance.</p>
+            <p>And now if our yea be not yea, and nay nay to You and all men upon the earth, let us ſuffer as much for breaking of that as for breaking an Oath, for we have ſuffered theſe many years both in Lives and Eſtates under theſe changeable Governments, becauſe we cannot ſwear, but obey Chriſts Doctrine, who Commands, we ſhould not ſwear at all, <hi>Mat.</hi> 5. <hi>James</hi> 5. And this we Seal with our Lives and Eſtates, with our yea and nay, accord<g ref="char:EOLhyphen"/>ing to the Doctrine of Chriſt.</p>
+            <p>Hearken to theſe things, and ſo conſider them in the Wiſdom of God, that with it ſuch Actions may be ſtopt, thou and you that have the Government that may do it.</p>
+            <p>We deſire that all that are in priſon for conſcience ſake may be ſet at Liberty, and for the time to come, they may not be impriſoned for Conſcience and the Truths ſake, and if you queſtion the innocency of their Sufferings, let them and their Accuſers be brought up before You.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Thomas Simmons,</hi> at the Sign of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103495:2"/>
+            <pb facs="tcp:103495:2"/>
+            <head>To the READERS.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Riends, you that are the Heads and Rulers, and Makers of Laws, and Magiſtrates in all theſe Dominions, We deſire you with conſidera<g ref="char:EOLhyphen"/>tion to Read theſe things over, and if there be any Mercy in You to conſider theſe things, and how long we Suffer, and was alwayes Sufferers under the Powers before You, we have been a Suffering People, and how we have been ſtruck with Armed and Weaponed men, ſeveral and divers Weapons, and Stoned and yet have never ſtruck again, nornever threw ſtone again; now ſuch Fighters and Strikers may not boaſt of a great Con<g ref="char:EOLhyphen"/>queſt, Neither is it becoming to a man nor to them that profeſſe the Name of Jeſus that hath thus turned againſt us, neither is it commendable nor of a good Report nor Savour, for them that be right Men would judge ſuch things; And again, beſides our Houſes broken to pieces, our Goods ſpoiled, and we ha<g ref="char:EOLhyphen"/>led before <hi>Courts</hi> and <hi>Magiſtrates,</hi> our Windows and Houſes broken up, our Friends baniſhed from Place to place, and thruſt out of Towns and Places, and not ſuffered to come to their Wives, and likewiſe Women thruſt away from their Families, as you may Read in this following Declaration, which is ſad, and a grief that ever any ſuch things ſhould be found amongſt any that profeſſe the Name of <hi>Jeſus;</hi> Therefore theſe things are given to You, that all things may be re<g ref="char:EOLhyphen"/>ſtored in Righteouſneſſe, Truth, and Equitie, and that Violence, Cruelty, and Oppreſſion and Injuſtice, and Injurious perſons, and the Jaws of the wick<g ref="char:EOLhyphen"/>ed and the Violence of men may be ſtopt, that Truth and Righteouſneſſe may run down your Streets, and that ſet up, that you may be a praiſe to them that doth well and wiſhes your welfare and the peace of all men, that the Rod may not be laid upon the Righteous, and the Sword turned backward, but to the evil doers you may be a terrour, and that you may diſtinguiſh between them that the Law is made for, and that it is not made for; and that the People of God may not be perſecuted that Worſhip God.</p>
+            <pb facs="tcp:103495:3"/>
+            <p>Here is a Declaration of the great and cruel Sufferings and Martyredom that the Elect People of God (before the World began) in ſcorn called <hi>Quakers,</hi> have ſuffered and at preſent do ſuffer by the Profeſſors (of the World) of the form of Godlineſſe but denies the Power thereof, who from them have turned away, which to the <hi>KING</hi> and the <hi>PARLIAMENT</hi> who are the preſent Rulers and Governours of theſe Dominions are to be Read, that they conſider &amp; may remove Oppreſſion and Perſecution, &amp; do Juſtice to the Innocent, that revengeth not themſelves, neither lifteth up a hand againſt any one, who commits their cauſe to the <hi>Lord</hi> to plead, leaſt the <hi>Lord</hi> ſweep you away, as he hath done them that went before you, that heard not the cry of the Op<g ref="char:EOLhyphen"/>preſſed, who have been as the ſheep for the ſlaughter, all the day long killed and buffeted, who have given their Backs, Cheeks, and Hair, to every one that would ſmite them and pluck it off, who have been in the deep Sufferings all a long, and had no helper in the Earth, but their lives from it hath been taken, Snares, Bonds, and Priſons in all Places attends them, yet they have learned the leſſon in all theſe Sufferings and Conditions, to pray to the <hi>Lord</hi> to for<g ref="char:EOLhyphen"/>give their Enemies; And who have kept their Integrity, and Fervencie, and Sincerity, and abideth in the Doctrine of Chriſt, that Commands them ſo to do.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:103495:3" rendition="simple:additions"/>
+            <head>A DECLARATION of ſome of the SUFFERINGS OF THE People of God CALLED QUAKERS.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <div type="introduction">
+               <p>
+                  <seg rend="decorInit">W</seg>E lay theſe ſufferings before you who have known ſufferings, and been exerciſed therewith, for you in this the day of your proſperi<g ref="char:EOLhyphen"/>ty, in the Fear of the Lord and his Wiſdom, to read over and con<g ref="char:EOLhyphen"/>ſider the ſufferings of the People of God, who have ſuffered all along in the dayes of the Common-wealth, and of the two Pro<g ref="char:EOLhyphen"/>tectors, and now ſuffers in the Kings Name, for Chriſt and his Truths ſake, and for obeying his commands.</p>
+               <p>And we have ſuffered all along under theſe changeable powers be<g ref="char:EOLhyphen"/>fore you, our meetings have been broken up, our houſes pluckt down, our windows broken, and pulled out of our Meetings, and cruelly abuſed, knockt down, and ſtones and dirt thrown at us, and have ſuffered cruel mockings, and ſhameful reproaches, and many whipt, ſtockt, and laid in Irons, and Dungeons, and naſty Straw, and priſoned till death, and ſome put to death in theſe Dominions, and the onely thing hath been for the ſpeaking of the truth, and warning people of the day that is come upon them (yea, many in ſackcloth and aſhes) who would not hear nor regard, whoſe day of viſitation is over.</p>
+               <p>
+                  <hi>And there hath ſuffered for Conſcience ſake and the Truths ſake (the cauſes being hereafter expreſſed) the number of</hi> 3179.</p>
+               <p n="1">1. For meeting together in the Fear of the Lord, as the Saints did in the primitive times, and exhorting one another, and building up one another, and praying toge<g ref="char:EOLhyphen"/>ther in their ſeveral houſes, as the Apoſtles did from houſe to houſe, have been beat, impriſoned, and not ſuffered to pray together as <hi>Daniel</hi> did, but pluckt us up by the hair of the head when we have been at prayers; and ſome have been ſtockt and whipt,
+<pb n="2" facs="tcp:103495:4"/> and others their Horſes taken from them, and ſome fined and impriſoned, ſome until death, and ſome knockt down and left for dead, others drag'd on the ground by the hair of their heads and cruelly beaten and trod upon, their cloaths rent, and blood ſhed, not ſparing women with Child, nor old age, the number of 827 perſons.</p>
+               <p>And they broke up our Meeings in the Common Wealths and <hi>Olivers</hi> time, under pretence, that we plotted to bring in <hi>Charls Stuart;</hi> and now he is come in, they are broken up by ſome of your Magiſtrates, under pretence that we are againſt the King, but we are in that which cannot lift up a hand, nor plot againſt him nor no man, by which we ſee all things, and have unity with God, and meets together to worſhip him in the Spirit and Truth, and thus are we deprived of it, by many who have been a<g ref="char:EOLhyphen"/>gainſt us, as much formerly as now, who if they were tryed, they are neither Friends to themſelves, nor to God, nor the King, who will not let us have ſo much liberty as Ballet ſingers and ſuch as uſe playes, nor let us meet to pray together, and build up one another in the Holy Faith, which was the command of the Apoſtle to the Saints in the Primitive times, for which practice have we ſuffered all along, as ſheep for the ſlaughter, and as ſuch as have no helpers in the earth, whoſe lives from it are taken: And our ſufferings has been alſo great in <hi>Scotland, Ireland, Virginia,</hi> and <hi>New England,</hi> the number of Sufferers and multitude of which ſufferings and meetings which have been broken, are to large, hardly to be mentioned or numbred.</p>
+               <p n="2">2. And for not going to the publick worſhip, many have been fined and impriſoned, and their goods taken from them; Now where do you ever read that ever the Jews or Gentiles ever fined the Chriſtians for not coming to the Temple at <hi>Jeruſalem,</hi> or the Synagogue, or <hi>Dianas</hi> Temple? Nay, is it not worſe then the <hi>Turks</hi> paying their Seſſments and Taxes? May they not have their liberty there to meet together to Pray and Worſhip God? ye men of underſtanding conſider this.</p>
+               <p n="3">3. And for warning people to repent (in the Markets and other places) of their ſin and wickedneſſe, have been whipt, ſtockt, and put in Fetters and Irons, and ſome im<g ref="char:EOLhyphen"/>priſoned, the number of 516 perſons.</p>
+               <p n="4">4. And for not ſwearing, as Chriſt commands they ſhould not ſwear, for obeying his Doctrine, and keeping to yea and nay in their Communications, according to his command, have been Stockt, Whipt, Fined and Impriſoned, and ſuffered the loſſe of their goods 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8 Perſons.</p>
+               <p>And we have ſuffered under pretence of being Papiſts and Popiſhly affected, and our Friends have ſuffered for going beyond the Seas to declare againſt the Papiſts, <hi>George Ba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly</hi> impriſoned till death in <hi>France,</hi> one <hi>John Love</hi> impriſoned till death in the Inqui<g ref="char:EOLhyphen"/>ſition in <hi>Rome,</hi> and <hi>John Parrot</hi> lies there yet in Priſon to finiſh his Teſtimony for the Truth and againſt Idolatry, and yet the Oath of Abjuration hath been tendred unto us to make a prey on us, knowing that our Principle was, that we could not ſwear no manner of Oath, for which cauſe we have ſuffered in our Lives and Eſtates; and now the Oath of Supremacy and Allegiance is tendred to us againſt the Pope, to make a prey upon us that knows our Principle is againſt the Papiſts, that knows our Principle that we cannot ſwear at all no Oath, but keeps to yea and nay in our Communicati<g ref="char:EOLhyphen"/>ons, according to Chriſts Doctrine, who declares againſt all Popery and the ſupremacy of it; Now if our yea be not yea, and nay nay ſo found to you and all men upon the earth, then let us ſuffer for breaking of that, as much as for breaking an Oath; and beſides very illegally is that Oath put to us, as you may ſee in the examining of the manner of their putting it to us.</p>
+               <p n="5">5. For not paying towards the repair of Steeple-houſes, and for not paying Clerks wages, have had their goods ſpoiled, ſtrained, and taken away above treble the de<g ref="char:EOLhyphen"/>mand, 256, which is worſe then ever we read of the Jews or Gentiles, that ever they made the Chriſtians do, to repair <hi>Dianas</hi> Temple, or the Jews Synagogue or Temple, that they fined them, and took their goods for not doing ſo.</p>
+               <p n="6">6. For viſiting Friends in Priſon, and carrying them neceſſaries that lay in naſty Straw and Dungeons, Fetters and Irons, lockt up, beat and bruiſed their bodies like jellies, have been impriſoned and beat, and ſome whipt and ſtockt, others fined and
+<pb n="3" facs="tcp:103495:4"/> their goods taken away, and ſome ſent away with paſſes, as wanderers and vaga<g ref="char:EOLhyphen"/>bonds, though Perſons of Eſtates, and ſome have had their goods taken and been impriſoned beſides for entertaining of their friends, which is worſe then the heathen did to the Apoſtle, who ſuffered his acquaintance to come to him and viſit him, and he taught in his own hired houſe in <hi>Rome,</hi> where the Seat of the Emperour was; and worſe then ever we read the Heathen and the Jews did to the Chriſtians in the Primitive times; and therefore what can be paraleld with this Generation, for it is for Truth and not for evil doing for which we ſuffer, and for bearing witneſſe to the Truth; Therefore ye men of Reaſon and of Underſtanding, conſider th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe things that there may be a reſtraint of violence and not of virtue, but that virtue may be cheriſhed.</p>
+               <p>Few minds the ſufferings of the Saints and the afflictions of <hi>Joſeph,</hi> but the Apoſtle ſaid, <hi>Them that will live godly in Chriſt Jeſus, muſt ſuffer perſecution,</hi> them that have been our greateſt Perſecutors, have been the greateſt in the form of Godlineſſe, but denyed the power.</p>
+               <p n="7">7. And for not paying Tythes for Conſcience ſake, that bears Teſtimony to the everlaſting Prieſthood, that ends the firſt, that takes Tythes, who redeems out of the earth, have ſuffered long and tedious Impriſonment, beſides the loſſe and ſpoil of their goods while at the ſame time their bodies have been kept in priſon in thoſe holes and naſty Dungeons, 918. and ſome have ſuffered as aforeſaid for ſmall ſumms, as four pence, twelve pence, eighteen pence, and two ſhillings, and for about 706. pounds 8. ſhillings and 11 pence demand for Tythes, the Prieſts and others have taken 3000 pound 3 ſhillings and eight pence, and ſome of them have not been contented with treble damages, but ſome of them have taken ten times more then their pretended due hath been, which we never read that ſo many did ſuffer in the Apoſtles and primitive times for not paying tythes to the Jewiſh prieſthood (which Chriſt ended and tythes,) or to the Gentiles, as we have done in our age within this nine or ten years, nor in all theſe heads or particulars above mentioned, though many of the Martyrs we believe have ſuffered for not ſwearing, and not paying Tythes ſince the Apoſtles dayes, by them who are called Chriſtians, as you may read in the book of the Martyrs, that ſuffered and bore their Teſtimony to the life of Jeſus, which uſed the word Thou to a ſingle perſon, <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, as we <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for Conſcience ſake, and cannot give men the honour below, and though we would have all men cloathed with that honour which is from above, and we have all men in eſteem, and would have them be ſaved and come to the knowledge of the Truth.</p>
+            </div>
+            <div type="section">
+               <head>Impriſoned in the Kings name,</head>
+               <p>Becauſe for Conſcience ſake they cannot ſwear, as Chriſt commands they ſhould not ſwear, but keep to <hi>yea</hi> and <hi>nay</hi> in their Communications, 74 perſons.</p>
+               <div n="Hertfordshire" type="county">
+                  <head>Hartford-ſhire.</head>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>Richard Martin.</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Fag.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Sellet.</hi>
+                        </item>
+                     </list> Committed to priſon the ninth of the fifth moneth, 1660. the cauſe was, they were ſummoned at a Seſſions to appear as Jurors which they did, and were willing to ſerve their Coun<g ref="char:EOLhyphen"/>try, but becauſe they could not ſwear, the Court fined them five pound each of them, and to lie in priſon until they paid it, one <hi>James Cooper</hi> be<g ref="char:EOLhyphen"/>ing the chief Judge of the Court.</p>
+               </div>
+               <div n="Oxfordshire" type="county">
+                  <head>Oxford-ſhire.</head>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>Thomas Goodaire.</hi>
+                        </item>
+                        <item>
+                           <hi>Benjamin Staples.</hi>
+                        </item>
+                     </list> Committed to Priſon the fifteenth day of the ſeventh month 1660. by Sir <hi>Wiliam Walter</hi> (ſo called) and Sir <hi>Thomas Pennaſton</hi> becauſe for conſcience they could not ſwear; and the Oath of Allegiance being tendred to them the ſecond time, for refuſing again to ſwear, (the ſaid <hi>William Walter</hi> being Judge) with the reſt of the Bench paſſed this ſentence a<g ref="char:EOLhyphen"/>gainſt
+<pb n="4" facs="tcp:103495:5"/> them following: <hi>You are out of the Kings protection, and all your Lands, Goods and Chattels are forfeited, and to be ſeized upon for the uſe of the King, and you are to remain in priſon during the Kings pleaſure.</hi>
+                  </p>
+               </div>
+               <div n="Cheshire" type="county">
+                  <head>Cheſhire.</head>
+                  <p>
+                     <hi>Alexander Parker</hi> impriſoned in <hi>Cheſter</hi> common Goal, becauſe for Conſcience ſake he could not take the Oath of Allegiance, &amp;c</p>
+                  <p>Twenty of theſe following were committed to the common Goal in <hi>Cheſter</hi> (becauſe for Conſcience ſake they could not take the Oath of Allegiance) the eighteenth of the eighth moneth, 1660. by <hi>Groſvenor</hi> and <hi>Peter Dutton</hi> called Juſtices.</p>
+                  <list>
+                     <item>
+                        <hi>William Thomliſſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Thomliſſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Randle Coxton.</hi>
+                     </item>
+                     <item>
+                        <hi>Randle Hare.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Taylor.</hi>
+                     </item>
+                     <item>
+                        <hi>John Madocks.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Badly.</hi>
+                     </item>
+                     <item>
+                        <hi>William Hill.</hi>
+                     </item>
+                     <item>
+                        <hi>John Parker.</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>Owen Painter.</hi>
+                     </item>
+                     <item>
+                        <hi>John Newton.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Thomliſſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Morcy.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Acton White.</hi>
+                     </item>
+                     <item>
+                        <hi>William Lake.</hi>
+                     </item>
+                     <item>
+                        <hi>John Maddock.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Probbin.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Prichard.</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Andrews.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn ap <g ref="char:V">Ʋ</g>rian.</hi>
+                     </item>
+                     <item>
+                        <hi>Roger ap <g ref="char:V">Ʋ</g>rian.</hi>
+                     </item>
+                     <item>
+                        <hi>William Matthews.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div n="Glamorganshire" type="county">
+                  <head>Glamorgan-ſhire.</head>
+                  <p>Twenty of theſe following were taken out of a peaceable meeting, and had before the Governour of <hi>Cardiff,</hi> and the reſt of them called Juſtices, who profered them the Oath of Allegiance, and becauſe for Conſcience ſake they could not ſwear, they are committed to priſon in <hi>Cardiff,</hi> with the other two, and there remains.</p>
+                  <list>
+                     <item>
+                        <hi>Edward Edwards.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Richard.</hi>
+                     </item>
+                     <item>
+                        <hi>Toby Hody.</hi>
+                     </item>
+                     <item>
+                        <hi>Rowland Thomas.</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Ienkin.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Thomas.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Iohn.</hi>
+                     </item>
+                     <item>
+                        <hi>William David.</hi>
+                     </item>
+                     <item>
+                        <hi>Perc. Robert.</hi>
+                     </item>
+                     <item>
+                        <hi>Jenkin Evan.</hi>
+                     </item>
+                     <item>
+                        <hi>James Lewis.</hi>
+                     </item>
+                     <item>
+                        <hi>John Mayo.</hi>
+                     </item>
+                     <item>
+                        <hi>Walter William.</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Harvy.</hi>
+                     </item>
+                     <item>
+                        <hi>John David.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Roberts.</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Phillip.</hi>
+                     </item>
+                     <item>
+                        <hi>William Harvy.</hi>
+                     </item>
+                     <item>
+                        <hi>William Moor.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Williams.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Gauler.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Adams.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div n="Wiltshire" type="county">
+                  <head>Wilt-ſhire.</head>
+                  <p>
+                     <hi>Thomas Troud</hi> of <hi>Dinton</hi> being ſummoned to ſerve in a Jury at the laſt Aſſizes at <hi>Sarum,</hi> he did appear, intending to do the ſaid ſervice, as truly and juſtly as the Lord ſhould enable him, but refuſing to take the Oath, was fined ten pounds, and committed to priſon in <hi>Fiſherton Anger,</hi> and there remains.</p>
+               </div>
+               <div n="Cumberland" type="county">
+                  <head>Cumberland.</head>
+                  <p>
+                     <hi>John Bewly</hi> committed to the Goal in <hi>Carliſle</hi> the nineteenth day of the ſe<g ref="char:EOLhyphen"/>venth moneth, 1660. by <hi>John Eylonly,</hi> and <hi>John Deuton</hi> called Juſtices, becauſe for Conſcience ſake he could not ſwear.</p>
+                  <p>
+                     <hi>James Adamſon</hi> committed to the aforeſaid Goal, by him called Sir <hi>Francis Saw<g ref="char:EOLhyphen"/>keld</hi> the ſeventh day of the eighth moneth, 1660. becauſe for Conſcience ſake he could not ſwear.</p>
+                  <p>
+                     <hi>William Laithwait</hi> committed to the aforeſaid Priſon, by the ſaid <hi>Francis Sawkeld</hi> the ſame day, the cauſe was, there being a great contention about <hi>James Adamſons</hi> words, which he had ſpoke to the Juſtice (between the Juſtice and the people, the ſaid <hi>William</hi> ſtanding by ſaid, <hi>take heed of adding to his words,</hi> at which the Juſtices Clerk ſwore, ſo <hi>William</hi> ſaid to the Juſtice, if juſtice were rightly executed, it would take hold on ſwearers, then ſaid the Juſtice laughingly, well, ile take ten groats of him another time, then the ſwearing Clerk ſpoke to the Juſtice to proffer <hi>William</hi>
+                     <pb n="5" facs="tcp:103495:5" rendition="simple:additions"/> the Oath of Supremacy, &amp;c. And becauſe he ſaid he could not break the Com<g ref="char:EOLhyphen"/>mand of Chriſt, who ſaith <hi>Swear not at all,</hi> he was committed to Priſon as aforeſaid, and there remains.</p>
+               </div>
+               <div n="Northampton" type="county">
+                  <head>Northampton.</head>
+                  <p>
+                     <hi>Daniel Wills, George Robinſon, William Acton,</hi> All committed to <hi>Northampton</hi> Goal in the Seventh Month, 1660. Becauſe for Conſcience ſake they could not take the Oath of Allegiance, &amp;c.</p>
+               </div>
+               <div n="Lancashire" type="county">
+                  <head>Lancaſhire.</head>
+                  <p>
+                     <hi>Iohn Lawſon, William Gibſon, James Smith,</hi> Impriſoned in <hi>Lancaſter-Caſtle,</hi> be<g ref="char:EOLhyphen"/>cauſe for Conſcience ſake they could not take the Oath of Allegiance.</p>
+               </div>
+               <div n="Surrey" type="county">
+                  <head>Surrey.</head>
+                  <p>
+                     <hi>Thomas Patchen,</hi> and <hi>Henry Gill,</hi> Impriſoned for not ſwearing, by <hi>Daniel Harvey, Adam Brown,</hi> and <hi>Nicholas Carew.</hi>
+                  </p>
+               </div>
+               <div n="Berkshire" type="county">
+                  <head>Berkſhire.</head>
+                  <p>
+                     <hi>Henry Hedges, John Giles, Humphrey Knowles, Leonard Cole, Andrew Pearſon,</hi> All in Priſon in <hi>Reading</hi> Goal, becauſe for Conſcience ſake they could not take the Oath of Allegiance and Supremacy.</p>
+               </div>
+               <div n="Cornwall" type="county">
+                  <head>Cornwall.</head>
+                  <p>
+                     <hi>John Kirton, Edward Angier,</hi> Impriſoned in <hi>Lanceſton,</hi> becauſe for Conſcience ſake they could not ſwear.</p>
+               </div>
+               <div n="Pembrokeshire" type="county">
+                  <head>Pembrookſhire.</head>
+                  <p>
+                     <hi>Thomas Barret, David Gibbon, James Picton,</hi> Impriſoned by one called Sir <hi>William M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rton,</hi> and one <hi>Simon Degg,</hi> becauſe they could not take the Oath of Allegi<g ref="char:EOLhyphen"/>ance and Supremacy.</p>
+                  <p>
+                     <hi>Thomas Symins, Hugh Symins,</hi> Committed to Priſon by <hi>James Lloyd,</hi> and <hi>James Bowen,</hi> called Juſtices, upon the complaint of one <hi>Jenkin Lewis</hi> Clerk, that they had neglected the Pariſh Church for one whole year, the Oath of Allegiance and Supremacy was tendred to them, and becauſe for Conſcience ſake they could not ſwear, they were ſent to Priſon.</p>
+                  <p>
+                     <hi>William Bateman, Morgan Eynon, Henry Reely,</hi> Committed to Priſon, becauſe they could not take the Oath of Allegiance, &amp;c.</p>
+               </div>
+               <div n="Norfolk" type="county">
+                  <head>Norfolk.</head>
+                  <p>
+                     <hi>Robert Alling</hi> of <hi>Buxton,</hi> the 24th of the Sixth Month, 1660. Committed to Priſon, becauſe he could not ſwear, nor put off his Hatt, by one <hi>Francis Cory.</hi>
+                  </p>
+               </div>
+               <div n="Middlesex" type="county">
+                  <head>Middleſex.</head>
+                  <p>
+                     <hi>Edward B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lling, Steven Hart, Richard Hill<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> Impriſoned, becauſe for Conſci<g ref="char:EOLhyphen"/>ence ſake they could not take the Oath of Allegiance, &amp;.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>Theſe following are Impriſoned for not paying Tythes, who bears Teſtimony to the everlaſting Prieſt-hood that ends the firſt that takes Tythes, who Redeems out of the Earth.</head>
+               <div n="Hertfordshire" type="county">
+                  <head>Hartfordſhire.</head>
+                  <p>
+                     <hi>Matthew Harold, Samuel Rud,</hi> both Committed to Priſon on the Twelfth day of the Eighth Month 1660. by <hi>Nathanael Stratton,</hi> Under-Bailiff to <hi>William Croſſe,</hi> by the Order of <hi>Ralph Sadler</hi> Impropriator in the ſame Pariſh, one of them for the tythe of 7 Acres of Corn, the other for the tythe of 3 Rudes of Barley.</p>
+                  <p>
+                     <hi>Thomas Wood, Iohn Barfoot,</hi> Committed to Priſon the 31 day of the 5th Month called <hi>July,</hi> in the year aforeſaid, by Order from <hi>William Clerk,</hi> who Rented the tythes of <hi>Roger Elbrow,</hi> Prieſt of <hi>Widford;</hi> and the ſaid <hi>Clerk</hi> cauſed to be
+<pb facs="tcp:103495:6"/> taken from the ſaid <hi>Thomas VVood</hi> goods worth 20. for the Tythes of 12 Acres and a half of Corn, moſt of it Barley and Peaſe; and from <hi>Iohn Barfoot</hi> was taken Three Pounds-worth of goods, and their Bodies ſtill kept in Priſon.</p>
+                  <p>
+                     <hi>William Staly,</hi> of <hi>Much Munden,</hi> committed to priſon at the ſuit of <hi>Ralph Sadler</hi> Impropriator, the 21 day of the 8 th Month, 1660. for the tythe of Two Acres of Barley.</p>
+                  <p>
+                     <hi>Edward Brocket,</hi> of <hi>Hitchon,</hi> Impriſoned the 18th day of the fifth Month, 1660 for Tythe, by a VVarrant from <hi>William Ruſſell,</hi> called Earl of <hi>Bedford.</hi>
+                  </p>
+                  <p>
+                     <hi>John Roberts</hi> of <hi>Hitchen,</hi> Impriſoned the 25th of the ſame Month for Tythe by the ſame Order.</p>
+               </div>
+               <div n="Somersetshire" type="county">
+                  <head>Somerſetſhire.</head>
+                  <p>
+                     <hi>Richard Adams</hi> of <hi>Lymington,</hi> Impriſoned the Tenth day of the Sixth Month, 1660. by Warrant from, <hi>William Lacy</hi> Sheriff, at the ſuit of <hi>Robert Brayn</hi> Prieſt of <hi>Lymington,</hi> for not paying him Tythes, where he lay in Priſon till death.</p>
+                  <p>
+                     <hi>William Parſons</hi> of <hi>Lymington</hi> Impriſoned the 30th of the 6th Month, 1660 at the ſuit of the ſaid <hi>Robert Brayn</hi> Prieſt.</p>
+                  <p>
+                     <hi>Thomas Morford, Iohn Evans,</hi> of <hi>I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gsbatch</hi> in the Pariſh of <hi>Iugſcomb,</hi> were Impri<g ref="char:EOLhyphen"/>ſoned the 22 day of the 6th Month 1660. for tythes, at the ſuit of <hi>James Maſters</hi> Prieſt.</p>
+                  <p>
+                     <hi>Julian Evans</hi> of the ſame, Aged near 100 years, was brought Priſoner the ſame day to <hi>Ilcheſter</hi> at the ſuit of the ſame Prieſt <hi>Maſters.</hi> The ſaid <hi>Julian, Thomas Morford,</hi> and <hi>Iohn Evans,</hi> all three Impriſoned for the tythe of one Living.</p>
+                  <p>
+                     <hi>Jerome Langdon</hi> of <hi>Queen Camel,</hi> Aged about 67 years, was Impriſoned the 27th day of the 6th Month 1660. at the ſuit of <hi>Robert Newman</hi> Impropriator, for one Acre, being about one Load, the tythe whereof at utmoſt might be worth about 4s.</p>
+                  <p>
+                     <hi>William Martin</hi> of <hi>Queen Camel,</hi> Impriſoned the 27th of the 6th Month 1660. at the ſuit of the ſaid <hi>Robert Newman,</hi> for the tythe Hay of about Four Acres of Meadow, worth about 4s.</p>
+                  <p>
+                     <hi>Mary Thatcher</hi> of <hi>Queen-Camel</hi> Widdow, Aged about 64 years, having 4 Children, was Impriſoned the 27th day of the 6th Month 1660. at the ſuit of the ſaid <hi>Newman,</hi> for the tythe of about one Acre and three yards of ground, not worth above 6s.</p>
+                  <p>
+                     <hi>Iohn Goodſon</hi> of <hi>Merſton Magna,</hi> was Impriſoned the 17th day of the 7th Month, 1660. at the ſuit of <hi>Henry Andrews,</hi> Farmer to the ſaid <hi>Robert Newman,</hi> of the tythes of <hi>Camel,</hi> for Pitching three parts of a Load of Beans to the Plough on the behalf of his friend <hi>Iohn Langdon</hi> (a Priſoner for tythes) and for no other cauſe as he knows, <hi>Thomas Pitman,</hi> and <hi>Robert Baker</hi> Bailiffs, with others, broke open the door upon him with much violence, and refuſed to take Bond of Appearance, though offered by ſix ſufficient men, until the Bailiffs had ſpent 10 s. 4 d. at an Ale<g ref="char:EOLhyphen"/>houſe in little more than one night; then pretended they would take Bail, if he would pay the ſcore, the which he refuſing to do, was carried Priſoner to <hi>Ilcheſter.</hi>
+                  </p>
+                  <p>
+                     <hi>Thomas Hurd</hi> of <hi>Somerton,</hi> Impriſoned the 7th day of the 7th Month, 1660. for tythes, at the ſuit of <hi>William Prynn</hi> Impropriator.</p>
+                  <p>
+                     <hi>Iohn Sage</hi> of <hi>Chewton,</hi> Impriſoned the 20th day of the 7th Month 1660. at the ſuit of <hi>Richard Kinſmel</hi> Impropriator.</p>
+                  <p>
+                     <hi>Iohn Cole</hi> and <hi>Richard Hill</hi> of <hi>Furrington,</hi> Impriſoned the 20th day of the 7th Month, 1660. at the ſuit of the ſaid <hi>Richard Kinſmel</hi> Impropriator.</p>
+                  <p>
+                     <hi>William Hagget</hi> of <hi>Weſton-Bamfield,</hi> Arreſted the 5th day of the 7th Month 1660. at the ſuit of <hi>Henry Andrews,</hi> onely for labouring in the time of Harveſt to help in the Corn of <hi>Iohn Langdon</hi> a Priſoner as aforeſaid.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>Yorkſhire.</head>
+                  <p>
+                     <hi>Henry Thompſon</hi> of <hi>VVeſton</hi> Impriſoned in <hi>York</hi> Caſtle, the 11th of the 8th Month called <hi>October,</hi> 1660. for tythes, by <hi>VVilliam Vavaſor</hi> of <hi>Burley</hi> Impropriator.</p>
+               </div>
+               <div n="Wilts" type="county">
+                  <pb facs="tcp:103495:6"/>
+                  <p>
+                     <hi>Iſaac Self</hi> of <hi>Market-Lavington,</hi> Impriſoned in <hi>Fiſherton-Anger</hi> for tythes, by one <hi>Iohn Mearweather</hi> an Impropriator.</p>
+                  <p>
+                     <hi>VVilliam Bartl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t</hi> of the ſame, Impriſoned in the ſame Goal for tythes, by the ſame Impropriator, and have both remained there Eleven weeks this 20th day of the 8th Month, 1660.</p>
+                  <p>
+                     <hi>Robert H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dden</hi> of great <hi>Cheverel,</hi> in the ſame Goal, becauſe he could not pay tythes to Prieſt <hi>Gough</hi> of the ſame place, and hath been a Priſoner Twelve weeks the 20th of the 6th Month, 1660.</p>
+               </div>
+               <div n="Cumberland" type="county">
+                  <head>Cumberland.</head>
+                  <p>
+                     <hi>Richard Robinſon, VVilliam Rawling Francis Holeton,</hi> Impriſoned in <hi>Carlifle</hi> for tythes, at the ſuit of <hi>VVilliam Granger</hi> Prieſt, the Second day of the 8th Month, 1660. by <hi>George Denton</hi> called Juſtice.</p>
+                  <p>
+                     <hi>Iohn Potter,</hi> Impriſoned in the ſame Goal, the Second day of the 6th Month, called <hi>Auguſt,</hi> 1660. at the ſuit of <hi>Iohn Hodgſon, Rowland Hodgſon</hi> and <hi>Alexander Hodgſon,</hi> Impropriators for tythes.</p>
+               </div>
+               <div n="Warwickshire" type="county">
+                  <head>VVarwickſhire.</head>
+                  <p>
+                     <hi>Edward Corbit, Iohn Corbit</hi> and <hi>Thomas Walker,</hi> In Priſon for tythes in <hi>Warwick</hi> Goal, where they have remained Ten weeks this 19th day of the 8th Month, 1660.</p>
+               </div>
+               <div n="Glamorganshire" type="county">
+                  <head>Glamorganſhire.</head>
+                  <p>
+                     <hi>Matthew Gibbon</hi> Priſoner in <hi>Cardiff</hi> for tythes.</p>
+                  <p>
+                     <hi>Humphery Kirk, Richard Watford</hi> Impriſoned becauſe they could not pay tythes.</p>
+               </div>
+               <div n="Gloucestershire" type="county">
+                  <head>
+                     <hi>Gloceſterſhire</hi> 
+                     <date>3d. 6th Month. 1660.</date>
+                  </head>
+                  <p>
+                     <hi>Thomas Hill, William Wooly</hi> Impriſoned in <hi>Gloceſter</hi> Caſtle, becauſe for Con<g ref="char:EOLhyphen"/>ſcience ſake they could not pay tythes, at the ſuit of one <hi>Iohn Criffin,</hi> Prieſt.</p>
+                  <p>
+                     <hi>Francis Pinnel,</hi> Impriſoned in the aforeſaid Goal, the 18th of the 8th Month, 1660. becauſe he could not pay tythes to <hi>Henry Heane</hi> Prieſt of <hi>
+                        <g ref="char:V">Ʋ</g>lveſton.</hi>
+                  </p>
+                  <p>
+                     <hi>Henry Lloyd</hi> and <hi>Iohn Cox,</hi> Impriſoned upon a <hi>Capias,</hi> the 9th of the 3d Month 1660. at the ſuit of <hi>Edward Bowland</hi> Prieſt, for tythes.</p>
+               </div>
+               <div n="Norfolk" type="county">
+                  <head>Norfolk.</head>
+                  <p>
+                     <hi>William Tilney,</hi> of <hi>Bellow,</hi> Impriſoned at the ſuit of <hi>Iohn Phillips</hi> Prieſt for tythes, the 21 of the 7th Month 1660. and remaineth a Priſoner.</p>
+                  <p>
+                     <hi>Benjamin Lynes,</hi> Committed to Priſon the 24th day of the 8th Month, at the ſuit of <hi>Nicholas Barwick</hi> for tythes.</p>
+               </div>
+               <div n="Surrey" type="county">
+                  <head>Surrey.</head>
+                  <p>
+                     <hi>Arthur Standbridge,</hi> Committed to Priſon for tythes, at the ſuit of <hi>Henry Hollo<g ref="char:EOLhyphen"/>wel</hi> Prieſt.</p>
+                  <p>
+                     <hi>Richard Newman</hi> Impriſoned for tythes, at the ſuit of <hi>Charles Blackwel</hi> Prieſt.</p>
+                  <p>
+                     <hi>Thomas Avery</hi> Impriſoned, becauſe he could not pay tythes to <hi>Leonard Litchford</hi> Prieſt.</p>
+                  <p>
+                     <hi>Robert Tribe</hi> Impriſoned becauſe he could not pay tythes to <hi>George <g ref="char:V">Ʋ</g>auhan.</hi>
+                  </p>
+                  <p>
+                     <hi>George Brick ſtock</hi> committed to priſon for Tythes.</p>
+                  <p>
+                     <hi>Richard Web, John Adams, Richard Beard</hi> Impriſoned at the Sute of <hi>Edward Goring</hi> and <hi>John Apſtle.</hi>
+                  </p>
+               </div>
+               <div n="Nottinghamshire" type="county">
+                  <head>Nottinghamſhire.</head>
+                  <p>
+                     <hi>William Claytor</hi> Impriſoned, becauſe for Conſcience ſake he could not pay Tythes.</p>
+               </div>
+               <div n="Cornwall" type="county">
+                  <head>Cornwal.</head>
+                  <p>
+                     <hi>Richard Tregenna</hi> Impriſoned at <hi>Bodmin</hi> for Tythes, at the Sute of <hi>James Forbes</hi> Prieſt. <hi>John Ellis</hi> priſoner at <hi>Penſame</hi> for Tythes.</p>
+               </div>
+               <div n="Westmoreland" type="county">
+                  <pb facs="tcp:103495:7"/>
+                  <head>Westmorland.</head>
+                  <p>
+                     <hi>Richard Berket, Richard Seddal,</hi> Impriſoned in the eighth Moneth, for not ſwearing in a Sheriffs return.</p>
+               </div>
+               <div n="Norfolk" type="county">
+                  <head>Norfolk.</head>
+                  <p>
+                     <hi>John Hilton</hi> in preſent ſufferings becauſe he could not ſwear, being ſummoned to ſerve in a Jury at a Coppy hold Court, and therefore <hi>John Lovel</hi> Lord of the ſaid Court, and now Juſtice of Peace, commanded his Bayliffe to ſeize all the eſtate of the ſaid <hi>John Hinton,</hi> which is done accordingly, to the vallue of about a hundred pound, and farther threatens to throw the ſaid <hi>John Hinton</hi> his Wife and Children out of the poſſeſſion which he bought and paid for, and that for no other cauſe, but becauſe he could not ſwear, though he expreſt his willingneſſe to ſerve if he might have been accepted without an Oath.</p>
+               </div>
+               <div n="Sussex" type="county">
+                  <head>Suſſex.</head>
+                  <p>
+                     <hi>Abraham Chrichenden, Nicholas Beard,</hi> Impriſoned for Tythes, this ninth Month, 1660.</p>
+               </div>
+               <div n="Bucks" type="county">
+                  <head>Bucks.</head>
+                  <p>
+                     <hi>John Lucas</hi> and two more in <hi>Alisberry</hi> Goal for Tythes.</p>
+               </div>
+               <div n="Southampton" type="county">
+                  <head>Southampton.</head>
+                  <p>Twenty one taken out of a peaceable Meeting, and becauſe they could not promiſe not to meet any more, were kept ſeveral dayes priſoners, not ſuffering their food to be brought to them, eleven of which were afterwards releaſt, but ten ſtill remains priſoners.</p>
+               </div>
+               <div n="Wilts" type="county">
+                  <head>Wilts.</head>
+                  <p>
+                     <hi>Giles Shurmur, John Garner,</hi> And two more commmitted to priſon for Tythes.</p>
+               </div>
+               <div n="Huntingtonshire" type="county">
+                  <head>Huntingtonſhire.</head>
+                  <p>
+                     <hi>Francis I ambeſted</hi> of <hi>Elton</hi> impriſoned, the eighth day of the ninth Moneth, 1600. for Ththes by <hi>John Cooper</hi> Prieſt of <hi>Elton</hi> aforeſaid.</p>
+                  <p>
+                     <hi>William Griffin</hi> impriſoned for Tythes by the ſaid <hi>John Cooper,</hi> the thirty one day of the ſixth Moneth, 1660.</p>
+                  <p>
+                     <hi>John Apthorp</hi> of <hi>Abotſly,</hi> impriſoned the ſame day for Tythes, by <hi>John Luke</hi> im<g ref="char:EOLhyphen"/>propriator.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>York-ſhire.</head>
+                  <p>
+                     <hi>William Overon, John Barbar, Miles Frankland,</hi> All impriſoned for Tythes at the Suit of <hi>Robert Hitch</hi> Prieſt.</p>
+                  <p>
+                     <hi>Matthew Watſon</hi> impriſoned at the Suit of <hi>Robert Ludſon</hi> Prieſt.</p>
+                  <p>
+                     <hi>William Norriſon</hi> impriſoned, by one called Sir <hi>William Cholmly,</hi> for having a Meeting at his houſe.</p>
+               </div>
+               <div n="Dorsetshire" type="county">
+                  <head>Dorſetſhire.</head>
+                  <p>
+                     <hi>Hercules Toby</hi> and <hi>John Butler,</hi> impriſoned by <hi>Edmund Butler,</hi> the ſecond day of the ſixth Moneth, 1660. for not paying him Tythe.</p>
+                  <p>
+                     <hi>Robert Ring,</hi> of <hi>Glazen Broadford</hi> a man of about fourſcore years of age, caſt into priſon for the Tythe of one Acre of Corn, by <hi>Elias Harvy</hi> an Impropriat or, the ſeventeenth day of the eighth Month, 1660.</p>
+                  <p>
+                     <hi>Elizabeth Maſters</hi> Widdow caſt into Priſon for Tythe, by <hi>Elias Harvy,</hi> the ſc<g ref="char:EOLhyphen"/>venteenth of the eighth Moneth, 1660. whoſe husband hath already ſuffered impriſonment until death, becauſe he could not for Conſcience ſake pay him Tythe to ſatisfie his covetous deſire.</p>
+                  <p>
+                     <hi>John Gillet</hi> caſt into priſon by <hi>John Hodder</hi> Prieſt, the ninteenth of the eighth Moneth, 1660. for not paying Tythe, to ſatisfie the greedy deſire of that cove<g ref="char:EOLhyphen"/>tous hireling that never hath enough.</p>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="9" facs="tcp:103495:7"/>
+               <head>Theſe following are fined and impriſoned for not putting off their Hats, and not giving men the honour below, and ſome for meeting together in the fear of the Lord in their ſeveral houſes, as the Saints did in the primitive times, and for not paying Clerks wages.</head>
+               <p>UPon the ſixteenth day of the 7th Month, 1660. there being a meeting of the Lords people (who in ſcorn are called Quakers) in the Town of <hi>Sherborn,</hi> conſiſting of about thirty perſons, inhabitants of the ſame Town, and the Pa<g ref="char:EOLhyphen"/>riſhes adjacent (who being met together to wait upon the Lord and worſhip him, having no other end nor purpoſe in their thus aſſembling together) There came into their meeting one <hi>Beſtel</hi> a Schoolemaſter of the ſame Town, with a Conſta<g ref="char:EOLhyphen"/>ble and others, who did wickedly blaſpheme Gods Truth, and commanded them of the meeting to go with them to the Juſtices; whereupon one asked if they had an Order either from Judge or Juſtices, they anſwered, <hi>That for Order they had none, but the Conſtable was a Warrant of himſelf;</hi> but they ſaid nay, and re<g ref="char:EOLhyphen"/>fuſed to go with them. Then <hi>Beſtel</hi> commanded the Conſtable to do his Office, whereupon they pulled and haled them out of the houſe where they were peaca<g ref="char:EOLhyphen"/>bly met, and the ſaid <hi>Beſtel</hi> commanded the Conſtable to ſet one man to each of them, and ſo to hale and drive them along to the Juſtice, and after they had haled and beaten them along ſome part of the way, they left them; Then one demand<g ref="char:EOLhyphen"/>ed their Order for their thus laying violent hands on them; So one put his hand on his ſword, and ſaid. <hi>That was their Order</hi> (many of them having ſwords and ſtaves) Then <hi>Beſtel</hi> with the Conſtable commanded the Tithing-man to have them back again, while they themſelves went to the Juſtices to fetch a Warrant; So they were brought to the Bayliffs houſe of the Town, where they were kept all night with watchmen to guard them, and the next day were had before <hi>Winſton Churchel</hi> (called a Juſtice and others, who demanded of them, <hi>Whether they did not know of an Order againſt their meeting together in a riotous manner</hi> (thus they demand<g ref="char:EOLhyphen"/>ed of them, though they were peaceably met together to wait upon the Lord as the Lords people uſe to do) and with ſome other words asked them, <hi>if they would give ſureties?</hi> which thing they could not do, being peaceable men, and having not broken any juſt or known Law, but onely were met together to wait on the Lord in his fear (having the word of a <hi>King, That none ſhould be wronged for Religion,</hi> as long as they live peaceably) So the Conſtable was commanded to take them away, &amp; a Mitimus was made, by which nine of them were ſent to the County Priſon at <hi>Dorcheſter,</hi> and five more paſſed their words to appear at the Seſſions, which was a<g ref="char:EOLhyphen"/>bout two weeks after, where they did all appear, who being brought before the Court (of which <hi>John Davis</hi> ſat as Judge, and with him ſat <hi>Winſtone Churchel, Giles Strangeways, George Fulford</hi> and <hi>Thomas Baynard,</hi> &amp;c. called Juſtices) their accuſation was read, wherein was many falſe and wicked things charged againſt them, which by them were never done nor ſpoken; Then they were called over, and the Schoolmaſter likewiſe (who was the cauſer of their impriſonment, but he being not preſent (nor any other) to prove what was charged againſt them, the aforeſaid <hi>Iohn Davis</hi> Judge of the Court queſtioned <hi>Winſtone Churchel</hi> who committed them, for not binding over the ſaid Schoolmaſter to proſecute againſt them. Then <hi>George Fulford</hi> one of them that ſhould have done Juſtice, and have freed the innocent, when none appeared to accuſe them of any evil, or the breach of any known Law) ſtood up and ſaid, <hi>There need no other evidence againſt them, then their ſtanding with their hats on in the face of the Court, which he ſaid did repreſent his Majeſties perſon;</hi> ſo ſilence was commanded in the Court, and <hi>that all ſhould be un<g ref="char:EOLhyphen"/>covered upon pain of Impriſonment,</hi> but they keeping on their Hats, were asked the
+<pb n="10" facs="tcp:103495:8"/> reaſon why they did ſo? who anſwered, It was not in contempt of the Court, but for Conſcience ſake that they kept them on; Yet notwithſtanding, for no other cauſe but for wearing their Hats, were theſe fourteen perſons, whoſe names &amp; fines are undermentioned, all fined by the Court, and returned to priſon to <hi>Dorcheſter</hi> until they pay it, although <hi>Winſtone Churchel</hi> (when they were firſt brought before him) ſaid, <hi>he did not regard the putting off of Hats,</hi> for ſaid he, <hi>his Majeſty looks not for it,</hi> yet the ſame <hi>Winſtone Churchel</hi> with the others aforeſaid, fined them and ſent them to priſon again, where they remain to this day, for no other cauſe but for keeping on their hats, and called it a contempt of the Court, which they ſaid did repreſent his Majeſties perſon.</p>
+               <list>
+                  <item>
+                     <hi>Iohn Pitman fined,</hi> 10. pounds.</item>
+                  <item>
+                     <hi>Thomas Long</hi> the elder, 10. p.</item>
+                  <item>
+                     <hi>Thomas Long</hi> the younger, 20. <hi>s.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Hopkins,</hi> 20. ſhillings.</item>
+                  <item>
+                     <hi>Benjamin Hopkins,</hi> 20. ſhillings.</item>
+                  <item>
+                     <hi>Joſeph Hopkins,</hi> 40. ſhillings.</item>
+                  <item>
+                     <hi>William Scot,</hi> 5. pounds.</item>
+                  <item>
+                     <hi>John Scot</hi> fined, 40. ſhillings.</item>
+                  <item>
+                     <hi>Francis Tailour,</hi> 40. ſhillings.</item>
+                  <item>
+                     <hi>George Ryal,</hi> 40. ſhillings.</item>
+                  <item>
+                     <hi>Edmond Bound,</hi> 40. ſhillings.</item>
+                  <item>
+                     <hi>Thomas Miller,</hi> 40. ſhillings.</item>
+                  <item>
+                     <hi>Richard Philips,</hi> 40. ſhillings.</item>
+                  <item>
+                     <hi>Charles Noak,</hi> 40. ſhillings.</item>
+               </list>
+               <div type="bishopric">
+                  <head>Biſhoprick.</head>
+                  <p>
+                     <hi>Lancelot Wardel, Richard Wilſon,</hi> Impriſoned for not putting off their Hats, and for not reſpecting mens perſons.</p>
+               </div>
+               <div n="Middlesex" type="county">
+                  <head>Middleſex, London.</head>
+                  <p>
+                     <hi>Thomas Coveny, John Pennyman, Humphry Wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rich,</hi> Committed to priſon by <hi>Ri<g ref="char:EOLhyphen"/>bcard Brown</hi> now Mayor, for not putting off their Hats to him.</p>
+                  <p>
+                     <hi>Sollomon Eccles</hi> committed to priſon for going as a ſign.</p>
+               </div>
+               <div n="Essex" type="county">
+                  <head>Eſſex.</head>
+                  <p>
+                     <hi>George Fox junior</hi> being at a Meeting in the worſhip of God, was taken out of the Meeting, by Order from the Mayor of <hi>Harwich,</hi> and in the Kings Name committed to Priſon, and ſince was brought to <hi>Lambeth</hi> houſe, and from thence is Ordered to the cuſtody of the Serjeant at Arms.</p>
+                  <p>
+                     <hi>Robert Greſſingham</hi> of <hi>Harwich</hi> ſent for from his houſe, and is alſo committed, and remains priſoner in the cuſtody of the Serjeant at Arms, without any thing proved againſt him, or without examination, contrary to all Law and Juſtice.</p>
+               </div>
+               <div n="Nottinghamshire" type="county">
+                  <head>Nottinghamſhire.</head>
+                  <p>
+                     <hi>Robert Carnil</hi> impriſoned in <hi>Nottingham</hi> Goal, the eighteenth day of the eighth Moneth called <hi>October,</hi> 1660. being bound for <hi>William Smiths</hi> appearance in <hi>Eaſter</hi> Term, ſo called, at which time, and at the day limited he did appear in perſon.</p>
+               </div>
+               <div n="Worcestershire" type="county">
+                  <head>Worceſterſhire.</head>
+                  <p>
+                     <hi>Daniel Baker</hi> impriſoned in <hi>Worceſter,</hi> for declaring againſt wickedneſſe and va<g ref="char:EOLhyphen"/>nity in the ſtreets.</p>
+               </div>
+               <div n="Hertfordshire" type="county">
+                  <head>Hartfordſhire.</head>
+                  <p>
+                     <hi>Robert Heart</hi> committed to Priſon the ſixth day of the eight Moneth, for ſay<g ref="char:EOLhyphen"/>ing (being bid go to Church and hear the Word of God) he could not hear it of a drunkard, for he can prove by many witneſſes, the Prieſt hath been drunk ma<g ref="char:EOLhyphen"/>ny times.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>York-ſhire.</head>
+                  <p>
+                     <hi>Oliver Ketterridge</hi> of <hi>Hornſey Burton</hi> in <hi>Holderneſſe,</hi> impriſoned in <hi>Home</hi> Caſtle, at the Suit of <hi>Francis Smith</hi> Clerk, for his wages, <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, being five pence and four ſheaves of Corn.</p>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="11" facs="tcp:103495:8"/>
+               <head>Committed to Priſon in the Names of the Keepers of the Liberty of <hi>England,</hi> ſo called, and of <hi>Oliver</hi> and <hi>Richard Cromwel,</hi> and yet remain Priſoners.</head>
+               <div n="Essex" type="county">
+                  <head>Eſſex.</head>
+                  <p>
+                     <hi>THomas E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tom, John Eve</hi> of <hi>Much Eaſton</hi> impriſoned in <hi>Colcheſter</hi> Caſtle, in the ninth month, 1659 for Tithes, at the ſuit of <hi>Thomas Leader</hi> prieſt.</p>
+                  <p>
+                     <hi>Iohn Emſon, William Crowe</hi> impriſoned in <hi>Colcheſter</hi> Caſtle at the ſuit of <hi>Thomas <g ref="char:V">Ʋ</g>ale</hi> impropriator, the nineteenth day of the eleventh month, 1659. by a writ of Attachment for not taking a copy of a Bill put into the Exchequer againſt the ſaid <hi>Iohn Emſon</hi> and <hi>VVilliam Crowe</hi> by the ſaid <hi>Thomas Vale</hi> concerning Tithers, and re<g ref="char:EOLhyphen"/>main priſoners.</p>
+                  <p>
+                     <hi>VVilliam Juniveer</hi> of <hi>Broxted</hi> ſent priſoner thither at the ſuit of <hi>John Pool</hi> Impro<g ref="char:EOLhyphen"/>priator for Tithes, about the beginning of the ninth month, and ſince was put into the ſame warrant with <hi>Thomas Eltom</hi> and <hi>John Eve</hi> above named, at the ſuit of <hi>Thomas Leader</hi> prieſt of <hi>Much Eaſton,</hi> and now remains priſoner.</p>
+                  <p>
+                     <hi>Thomas Chapman, VVilliam Freeting</hi> both impriſoned in <hi>Colcheſter</hi> Caſtle about the ſeventh day of the third month, 1660. at the ſuit of <hi>Robert VVicks</hi> prieſt of <hi>Burnham,</hi> by a writ of Attachment for treſpaſſes againſt the Keepers of the Liber<g ref="char:EOLhyphen"/>ties of <hi>England,</hi> ſo called.</p>
+                  <p>
+                     <hi>Thomas Bradee</hi> of <hi>Aſhleden</hi> Impriſoned, in <hi>Colcheſter</hi> Caſtle the ſeventh day of the third month, 1660. by a writ of Attachment for not appearing in the Exchequer to anſwer to prieſt <hi>John Anger</hi> about Tithes.</p>
+                  <p>
+                     <hi>Robert Leve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> of <hi>Stebbing</hi> ſent priſoner to <hi>Colcheſter</hi> Caſtle at the ſuit of <hi>John Sorrel</hi> impropriator, the fifteenth day of the fixth month, 1660.</p>
+                  <p>
+                     <hi>Iohn Adams</hi> of <hi>Hadſtock</hi> ſent priſoner thither about the twenty ſixth day of the ſeventh month, 1600. by a writ of Attachment from the Keepers of the Liberty of <hi>England</hi> (ſo called) and by a writ of common proceſſe both at the ſuit of <hi>Tho<g ref="char:EOLhyphen"/>mas VVallis</hi> prieſt of <hi>Hadſtock</hi> about Tithes, and he is now a priſoner.</p>
+                  <p>
+                     <hi>Thomas Mumford</hi> and <hi>Anthony Page</hi> impriſoned in <hi>Colcheſter</hi> for Tithes, at the ſuit of <hi>Iohn Cooper</hi> of <hi>Saling</hi> impropriator, and <hi>Anthony Maxey</hi> impropriator, the ſaid <hi>Thomas</hi> hath been a priſoner near three years.</p>
+                  <p>
+                     <hi>VVidow Balls</hi> and <hi>VVilliam Balls</hi> both of <hi>Horſely</hi> impriſoned in <hi>Colcheſter,</hi> ſent priſoners to <hi>Colcheſter</hi> at the ſuit of <hi>Iohn VVrite</hi> prieſt for Tithes, although the ſaid <hi>VVilliam Ball</hi> occupied no land.</p>
+                  <p>
+                     <hi>Abraham Couzin, John Dankes, William Drake,</hi> Sent Priſoners to <hi>Colcheſter</hi> for doing ſomething on the firſt day of the week, by <hi>Thomas Beek Mayor,</hi> and <hi>John Shaw</hi> Recorder, and kept in Priſon ſix weeks, and then let go upon their promiſe to ap<g ref="char:EOLhyphen"/>peare when called for.</p>
+               </div>
+               <div n="Somersetshire" type="county">
+                  <head>Somerſet ſhire.</head>
+                  <p>
+                     <hi>John Langdon, Thomas Loſcomb, Henry Gerriſh, Ann Brock, John Roman, Robert Carpenter, Robert Hillburn, John Combe, Triſtram Gundry, George Taylor, John Allen.</hi>
+                  </p>
+                  <p>The moſt of theſe are cloſe Priſoners for Tythes being ſued in the Name of the Keepers of the Liberty of <hi>England</hi> ſo called.</p>
+               </div>
+               <div n="Oxfordshire" type="county">
+                  <head>Oxfordſhire.</head>
+                  <p>
+                     <hi>Edward Butcher</hi> of <hi>Milcom</hi> Impriſoned the third day of the twelfth Month, 1659, by <hi>Richard White</hi> Prieſt of <hi>Wickington</hi> for not payment of Tythes.</p>
+                  <p>
+                     <hi>Timothy Poulton</hi> of <hi>Charbery</hi> Impriſoned the ninetenth day of the eleventh Month, 1659. at the ſuit of <hi>Thomas Cobb</hi> Impropriator for not payment of Tythes.</p>
+                  <p>
+                     <hi>Thomas Taylor</hi> of <hi>Norley</hi> ſent to Priſon in Trinity Term ſo called, 1659. at the ſuit of <hi>Thomas Twity</hi> Prieſt of the aforeſaid Town for not payment of Tythes</p>
+                  <pb facs="tcp:103495:9"/>
+                  <p>
+                     <hi>Thomas French,</hi> of <hi>Chippen-Norton,</hi> Impriſoned the ſeventh day of the ſecond Moneth, 1658. at the ſuit of <hi>William Thomas</hi> (Renter of the Tythes of the afore<g ref="char:EOLhyphen"/>ſaid Pariſh) becauſe he could not pay him Tythes.</p>
+                  <p>
+                     <hi>Alexander Harris</hi> of <hi>Chalbery</hi> Impriſoned the fifth day of the eleventh Moneth 1657. at the ſuit of <hi>William Brown</hi> Prieſt, for not payment of Tythes.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>
+                     <hi>York-ſhire,</hi> 
+                     <date>the fourteenth day of the eight Moneth, 1660.</date>
+                  </head>
+                  <p>
+                     <hi>Richard Towſe</hi> of <hi>Garton</hi> Impriſoned in <hi>York Caſtle,</hi> the eleventh of the ninth Moneth 1659. by <hi>Chriſtopher Sarret</hi> of the ſame Town Impropriator for Tythes.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>York-ſhire.</head>
+                  <p>
+                     <hi>Alice Maw</hi> widdow, <hi>John Halliday</hi> of <hi>Towthorp</hi> in the <hi>Woulds,</hi> Impriſoned in <hi>York Caſtle</hi> for tythes the nineteench of the ninth Moneth, 1659. By <hi>Thomas Jackſon</hi> impropiator.</p>
+                  <p>
+                     <hi>William Peart</hi> and <hi>Richard Smith</hi> of <hi>Crake</hi> Impriſoned in <hi>York Caſtle</hi> for Tythes, the fourth day of the firſt Moneth 1659. By <hi>John Humes</hi> Prieſt of the ſame Town, and yet remains Priſoners.</p>
+                  <p>
+                     <hi>Richard Arnel, Richard Parker,</hi> and <hi>Thomas Clark</hi> of <hi>Snaith</hi> Pariſh Impriſoned in <hi>Pontefract Goale</hi> for Tythes, the nineteenth of the firſt Moneth 1659. by <hi>John Lud<g ref="char:EOLhyphen"/>ley</hi> Prieſt of <hi>Snaith.</hi>
+                  </p>
+               </div>
+               <div n="Cumberland" type="county">
+                  <head>Cumberland.</head>
+                  <p>
+                     <hi>Anthony Patinſon</hi> of the <hi>Abba</hi> impriſoned the eighteenth day of <hi>October,</hi> 1659. by <hi>Thomas Craſter,</hi> and <hi>Cuthbert Studholm,</hi> called Juſtices, for following his calling being a Weaver, in a Corporation Town, as they call it, although he had ſerved four years to the trade, and nine years in the Army.</p>
+               </div>
+               <div n="Nottinghamshire" type="county">
+                  <head>Nottingham ſhire.</head>
+                  <p>
+                     <hi>William Smith,</hi> Impriſoned for not paying tythes by <hi>William Packlington</hi> of North <hi>Collingham.</hi>
+                  </p>
+                  <p>
+                     <hi>Edward Laford,</hi> Impriſoned for tythes by <hi>Richard Godſane,</hi> and <hi>Richard Lamb,</hi> of <hi>Collingham.</hi>
+                  </p>
+                  <p>
+                     <hi>Robert Morefen</hi> Impriſoned at the ſuit of <hi>Thomas Huit</hi> called Knight, for tythes, and after the ſaid <hi>Robert</hi> had ſuffered a years impriſonment, the ſaid <hi>Huit</hi> died, and though no man proſecuted the ſaid <hi>Robert,</hi> yet he is kept in bonds by the She<g ref="char:EOLhyphen"/>riff.</p>
+                  <p>
+                     <hi>Edward Langford</hi> Impriſoned for tythes at the ſuit of <hi>Richard Godſane,</hi> and</p>
+                  <p>
+                     <hi>Richard Lamb,</hi> aforeſaid, and he hath ſuffered eleven Months this eighteenth day of the eight Month 1660.</p>
+                  <p>
+                     <hi>Thomas Elſam</hi> impriſoned for tythes by <hi>William Pocklington</hi> aforeſaid and hath ſuffered above five Months.</p>
+                  <p>
+                     <hi>Roger Storrs</hi> impriſoned for tythes by <hi>Richard Standfield,</hi> and hath ſuffered fifteen weeks.</p>
+               </div>
+               <div n="Lincolnshire" type="county">
+                  <head>Lincolne ſhire.</head>
+                  <p>
+                     <hi>Robert Whitman,</hi> now a Priſoner in <hi>Lincoln</hi> for Tythes at the ſuit of <hi>John Coale</hi> who hires the tythes of the prieſt, he hath been priſoner ever ſince the twenty one of the ninth Month 1659.</p>
+                  <p>
+                     <hi>Vincent Frotheringham</hi> impriſoned the twenty third day of the firſt Month, 1659. for tythes in the aforeſaid Goale at the ſuit of <hi>Lawrance Sandon</hi> Prieſt.</p>
+               </div>
+               <div n="Lincoln" type="county">
+                  <head>Lincoln.</head>
+                  <p>
+                     <hi>Edward Willey,</hi> now a priſoner for tythes at the ſuit of <hi>Henry Wames,</hi> and <hi>James Green,</hi> hath been priſoner ever ſince the fourteen of the ſecond Month, 1660.</p>
+                  <p>
+                     <hi>Richard Frothingham,</hi> now a priſoner for tythes at the ſuit of <hi>Lawrence Sandon</hi> a Prieſt, he hath been a priſoner ever ſince the twenty one of the ſecond Month, 1660. This <hi>Richard</hi> is Father to the above named <hi>Vincet Forthingham,</hi> and the
+<pb n="13" facs="tcp:103495:9"/> Prieſt impriſons the Father, becauſe he cannot ſatisfie for the Sons tythes, though the old man hath no intereſt in any Tythable goods where this prieſt can claim any property.</p>
+               </div>
+               <div n="Northamptonshire" type="county">
+                  <head>Northamptonſhire.</head>
+                  <p>A poor widdow woman who hath two children committed to <hi>Northampton</hi> Goal near a year ſince, there remains ſtill for Tythes of about five ſhillings vallue, at the Suit of one <hi>Robert Wilds</hi> Prieſt.</p>
+                  <p>
+                     <hi>William Vincent</hi> committed to the aforeſaid Goal about ten Moueths ſince, where he yet remains, becauſe he could not ſwear to his anſwer to one Prieſt <hi>Andrews</hi> Bill.</p>
+               </div>
+               <div n="Lancashire" type="county">
+                  <head>Lancaſhire.</head>
+                  <p>
+                     <hi>Richard Myers, Alexander Rigby,</hi> impriſoned in <hi>Lancaſter</hi> Caſtle for not paying Tythes.</p>
+               </div>
+               <div n="Suffolk" type="county">
+                  <head>Suffolk.</head>
+                  <p>
+                     <hi>Richard White,</hi> Impriſoned in that County, at the Suit of Prieſt <hi>
+                        <g ref="char:V">Ʋ</g>ſher,</hi> becauſe for Conſcience ſake he could not pay him Tythes.</p>
+                  <p>
+                     <hi>Thomas Burchham</hi> Priſoner in <hi>Bliborough</hi> Goal for Tythes.</p>
+                  <p>
+                     <hi>Barbary Jarmine</hi> Impriſoned in <hi>Ipſwitch</hi> Goal, for ſpeaking to a Prieſt.</p>
+                  <p>
+                     <hi>John Eaſeling</hi> in <hi>Ipſwitch</hi> Goal for Tythes.</p>
+               </div>
+               <div n="Gloucestershire" type="county">
+                  <head>
+                     <hi>Gloceſterſhire,</hi> 
+                     <date>the 11th. of the 9th Moneth, 1659.</date>
+                  </head>
+                  <p>
+                     <hi>Thomas Hapcot</hi> Impriſoned at the Suit of <hi>Richard Biſlon</hi> Prieſt of <hi>Breedon</hi> in <hi>Worce<g ref="char:EOLhyphen"/>ſterſhire,</hi> for Tythes.</p>
+                  <p>
+                     <hi>Ann Web</hi> Widow, impriſoned the twenty fourth of the ninth Moneth, 1659. upon a <hi>Capias</hi> at the Suit of <hi>Anthony Hungerford</hi> Impropriator for Tythes.</p>
+               </div>
+               <div n="Gloucester" type="county">
+                  <head>In the County of the City of <hi>Glouceſter.</hi>
+                  </head>
+                  <p>
+                     <hi>Thomas White</hi> impriſoned the eighth of the eighth Moneth, 1659. upon a <hi>Capias</hi> at the ſuit of <hi>Thomas Biſhop</hi> Impropriator for Tythes.</p>
+               </div>
+               <div n="Norfolk" type="county">
+                  <head>Norfolk.</head>
+                  <p>
+                     <hi>John Goddard, Henry Goddard, Abraham Howes,</hi> impriſoned in <hi>Norwich</hi> Caſtle for Tythes, at the Suit of <hi>Thomas Theodoreth,</hi> the twenty ſeventh day of the ſe<g ref="char:EOLhyphen"/>cond Moneth, 1660. notwithſtanding the ſaid <hi>Thomas Theodoreth</hi> had not long be<g ref="char:EOLhyphen"/>fore taken away ſeveral loads of Corn from two of the aforeſaid parties; and of <hi>A. Howes</hi> he took for the Tythes accounted to be five pound odd mony, Cattel worth eleven pound, and keeps them in priſon beſides.</p>
+                  <p>
+                     <hi>Matthew King</hi> of <hi>Northwalſham</hi> in <hi>Norfolk,</hi> impriſoned the nineteenth day of the ſecond Moneth, 1660. at the Suit of <hi>Thomas Simmons</hi> Prieſt in <hi>Suffeild</hi> for Tythes, and yet remains Priſoner.</p>
+               </div>
+               <div n="Bedfordshire" type="county">
+                  <head>Bedfordſhire.</head>
+                  <p>
+                     <hi>John Apthorp, Dorothy Neal, John Samn, Elizabeth Brace,</hi> Impriſoned in <hi>Bedford</hi> Goal, becauſe for Conſcience ſake they could not pay Tythes.</p>
+               </div>
+               <div n="Dorsetshire" type="county">
+                  <head>Dorſetſhire.</head>
+                  <p>
+                     <hi>Roger Coward</hi> caſt into priſon by <hi>Benjamin Maber</hi> Prieſt, the twenty fourth day of the ninth Moneth, 1659. for not paying him Tythe.</p>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="14" facs="tcp:103495:10"/>
+               <head>Here followeth a ſhort Relation of ſome few of the cruel and inhumane uſages, (which have reached unto blood) which many of the People of the Lord have met with and under-gone at their meeting together in the fear of the Lord, as the ſaints did in the primitive times in their ſeve<g ref="char:EOLhyphen"/>ral houſes, which cruelty if it be not reſtrained, will bring upon this preſent power and Authority the guilt of the inocent blood of many righte<g ref="char:EOLhyphen"/>ous ſouls.</head>
+               <div n="Westminster" type="city">
+                  <head>Weſtminſter.</head>
+                  <p>
+                     <hi>IOhn Scafe, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dward Bylling, Thomas Matthews,</hi> and about three or four ſcore Perſons more, being at the houſe of <hi>Stephen Heart</hi> in new Palace yard at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> where on the ſeventh day of the twelfth month called <hi>February,</hi> 1659. they were peacably met together in the fear of the Lord, Some of the rude Souldiers and others the Inhabitants of <hi>VVeſtminſter</hi> came in great rage and violently pul<g ref="char:EOLhyphen"/>led many of them out of their meeting room, and did ſorely beat and bruiſe ma<g ref="char:EOLhyphen"/>ny, and draged ſome on the ground by the hair of their heads, others had their clothes rent and ſcarffs taken away, and ſome were knockt down; And one Wo<g ref="char:EOLhyphen"/>man with child was ſo abuſed and hurt, that ſhe ſaid ſhe was undone. And after this and other miſchief by them and ſome of the Inhabitants of <hi>Weſtminſter</hi> was done, they rifled the houſe and broke the glaſſe-windows, and threatened more miſchief for the future, and ſome were heard to ſay they had taken an Oath to that purpoſe.</p>
+                  <p>And at another meeting afterwards, ſome of the rude Souldiers and others came again and did much abuſe Friends and beat them, and pulled the ſaid <hi>Stephen Heart</hi> out of his houſe and knockt him down, and beat him ſo that his ſenſes were aſtoniſhed.</p>
+               </div>
+               <div n="Middlesex" type="county">
+                  <head>Middle-ſex.</head>
+                  <p>
+                     <hi>John Wooldrige</hi> and others being on the firſt day of the week peacably met toge<g ref="char:EOLhyphen"/>ther to wait on the Lord in his own hired houſe at <hi>Brainford,</hi> there came into the houſe two men who ſaid they were Conſtables, and without any warrant or Le<g ref="char:EOLhyphen"/>gal Authority, they violently pulled him out of his houſe (in which action they wrincht his wriſt and had him before <hi>James Hawley</hi> (called Juſtice) who without the breach of any Law of God or man, forthwith commanded a Warrant to be made, and ſent him to priſon.</p>
+               </div>
+               <div n="Surrey" type="county">
+                  <head>Surry.</head>
+                  <p>As the people of God were peacably met together to wait on the Lord at <hi>Mit<g ref="char:EOLhyphen"/>cham</hi> in <hi>Surry,</hi> on the third day of the fifth month, 1659. the rude people of the Town came to the place where they were met, and threw hatfulls and a pail full of dirty water on them, and threw dirt on the face of him that was ſpeaking. And as they were going to the meeting many Friends were beaten and abuſed, and ſome thrown down and trampled on, and dragged on the ground by the hair of the head and kickt, and ſome had their clothes torn, and called them Rogues, and threatened to kill them; And one Friend was thruſt into a pond, and knockt down in it, and there kept a pretty ſpace, and when they had ſo done, they drave the Friends like Beaſts out of the Town with ſtaves, and huncht them, and puncht them, and hurt them, and no Officer neither Magiſtrate nor other would ſtir to preſerve them, or keep the peace, which the rude people broke, though ſome of them were told of this cruel uſage, and feared that ſome of them might be killed.</p>
+                  <p>At another meeting on the 7th day of the ſame month, the rude people came
+<pb n="15" facs="tcp:103495:10"/> again, and threw much dirt and Cow-dung upon them, and ſome was upon the face and into the mouth of him that was ſpeaking and declaring the Truth, and when they ſaw this would not diſturb them, ſo as to cauſe them to break up their meeting, they fired a Gun or Piſtol three times upon them.</p>
+                  <p>At another meeting on the tenth day of the ſame Moneth, the rude people came again to the houſe where they were peaceably met in the Fear of the Lord, and with a Scoop-ſhovel caſt in ſcoop-fulls of dirt and dirty water upon them, which did ſo wet and daub them with them, that they were almoſt covered there<g ref="char:EOLhyphen"/>with, inſomuch that they appeared as though they had been dragged through a dirty Channel; And when the rude people had ſo done, then they cryed out ſee how like Witches they look, with other filthy and bruitiſh words not fit to be mentioned, all which the people of God bore with patience, without making any reſiſtance. And when this was done, then they threw in clods of dirt upon them, and drew them forth of the meeting, and tore ſome of their cloaths, and threw down others, and ſtoned others, and brake the windows of the houſe, and the fence of the Friends ground where they met, and drove them through the Town. And ſome of the Friends after all this in going to a Juſtices houſe, were ſorely beaten, and ſome had their blood ſhed, and were in danger of their lives, and thoſe rude people cryed out, let the Juſtice kiſs their breech.</p>
+               </div>
+               <div n="Hertfordshire" type="county">
+                  <head>Hartford-ſhire.</head>
+                  <p>At a peaceable Meeting of the people of God at <hi>Sawbridgworth,</hi> the rude peo<g ref="char:EOLhyphen"/>ple of the Town (amongſt whom were ſome of the Servants of him who is called Juſtice <hi>Hewet</hi>) came to the door and threw in water, rotten eggs, mans dung and ſtones, of which the ſaid Juſtice <hi>Hewet</hi> being informed, and deſired to preſerve the people of God from violence and the rude multitude in peace, he the ſaid Juſtice <hi>Hewet,</hi> inſtead of performing the duty of a Magiſtrate, and preſerving the people in peace, ſo incouraged the rude ones, that the hands of the wicked were ſtrengthened and encouraged in their miſchief, and he refuſed to do Juſtice ac<g ref="char:EOLhyphen"/>cording to his place.</p>
+               </div>
+               <div n="Northamptonshire" type="county">
+                  <head>Northampton-ſhire.</head>
+                  <p>The people of God being peaceably met together, to wait on the Lord in a Cloſe, near the houſe of <hi>William Lovel,</hi> and upon his own ground, there came one Captain <hi>Pinkard,</hi> and many of his Troopers on Horſe-back, and entred upon the ground, and in a brutiſh and in humane manner, rode amongſt the Friends, and many of them received much hurt with their Horſes and otherwiſe, and they broke up the Meeting, and took away the ſaid <hi>William Lovel</hi> and others, and ſen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them to priſon, where divers of them were kept two Moneths, and the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam Lovel</hi> kept priſoner nine Moneths, and he was more cruelly uſed, then can be briefly expreſt, for no other cauſe, but for having a meeting at his houſe.</p>
+               </div>
+               <div n="Warwickshire" type="county">
+                  <head>Warwick-ſhire.</head>
+                  <p>There being a peaceable Meeting of the people of God, at a place called <hi>Grin,</hi> at the houſe of the Widdow <hi>Meeks,</hi> the ſaid Widdow for ſuffering a Meeting there was turned out of her houſe, and the houſe its ſelf pul'd down.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>York-ſhire.</head>
+                  <p>There being a peaceable meeting of the people of God, at the houſe of Friend <hi>Blacklin</hi> in <hi>York-ſhire,</hi> where were met about thirty perſons, the rude people came into the Meeting and violently pulled them out one by one, and knockt many of them down, and wounded many of them.</p>
+               </div>
+               <div n="Nottinghamshire" type="county">
+                  <head>Nottingham-ſhire.</head>
+                  <p>A peaceable Meeting of the people of God, was by wicked and ungodly men,
+<pb n="16" facs="tcp:103495:11"/> broken up at <hi>Newark,</hi> and the Friends received much hurt, and much of their blood was ſhed, by the rude multitude, and about four ſcore of them were haled out of the meeting one by one, and were cruelly beaten and abuſed.</p>
+               </div>
+               <div n="Somersetshire" type="county">
+                  <head>Sommerſet-ſhire.</head>
+                  <p>There being a peaceable meeting of about two hunded of the People of God at <hi>Martock</hi> upon the ſecond day of the ſecond Month 1657. five men who called themſelves Minſters, and who are called Mr. <hi>Hallet,</hi> Mr. <hi>Stephenſon,</hi> Mr. <hi>Duke,</hi> Mr. <hi>Collens,</hi> and Mr. <hi>Thomas Lye,</hi> come to the place where the meeting was, and brought with them a great company of rude people with long ſtaves, Pikes, and ſuch like Weapons, and fell on the Friends, (who were met in the fear of the Lord) and beat them and pulled them and tore their Garments, and made loud out-cryes; and the rude peoples hands were ſo ſtrengthened by the company and countenance of the Prieſts, and their rage and madneſs ſuch againſt the people of God, that had not the Lord wonderfully appeared in his peoples deliverance, ſome might have loſt their lives.</p>
+                  <p>At a meeting of the people of God on the firſt day of the fifth Month 1659. at <hi>Threſhford,</hi> the rude People came with Kettles, Panns, and blowing horns, and with Pipes, Lowbels, and a Drum, to make a noiſe and a cauſe a diſturbance, and the noiſe they made was great, ſo that friends could not hear the truth declared; Amonſt which rude company there was one who is called a Miniſter, and he to manifeſt him himſelf ruder then the reſt, beat the drum himſelf, to make a greater noiſe then was made before, who with the rude multitude, flung ſtones, and dirt, and water at friends, and ſome of them affirmed that they were hired to do ſo, and that they that hired them ſtood by and encouraged them, giving them Bear and Ale for their ſervice. Now let the underſtanding Reader judge, who were chief Inſtruments in chis wickedneſs, <hi>&amp;c.</hi> And whether ſuch ſerve our Lord Jeſus Chriſt or their own luſts, and whether the end of ſuch is not deſtruction.</p>
+               </div>
+               <div n="Northumberland" type="county">
+                  <head>Northumberland.</head>
+                  <p>As divers of the People of God were met together in his fear at a place called <hi>Elledſdon,</hi> there came a company of rude men and women (amongſt whom was the Prieſts wife of the Town of <hi>Elledſdon,</hi> who came from the ſteeple-houſe) and in great violence haled forth of the meeting about twenty friends and forced them out of the Town, and over a little River; But after ſome ſeaſon the rage of the rude people abated, and ſo by permiſſion of the chief Actors, the people of the Lord met together again, then the Prieſt himſelf came from his ſteeple houſe, and having a ſtone in his hand of two or three pound waight, he deſperately threw it at one of the friends, and his wife alſo threw ſtones at friends, and they did ſo encourage the rude multitude, that they made a freſh aſſault upon them, and with great fury dragged and haled friends out of the meeting again, and threw them down and dragged them on the ground, and the Prieſt encouraged the rude people to ſtone the Friends, and ſaid it was warrantable by the Scriptures, and he would bear them out in it, and that if ever they came again he would ſet his maſtiff dog at them.</p>
+               </div>
+               <div n="Wrexham" type="town">
+                  <head>
+                     <hi>Wrexham</hi> in <hi>Wales,</hi> 
+                     <date>the eight day of the eleventh Month, 1659.</date>
+                  </head>
+                  <p>The people of the Lord being met together to wait upon the Lord, many rude Souldiers that belonged to the <hi>Iriſh</hi> Brigade came to the meeting place with ſtaves and crab-tree cudgels, and thruſt and puſht one another upon Friends, and one ſtanding up and bidding them be civil and quiet, they cryed out pull him down, and out with him, and ſo fell upon him, and the reſt of Friends, and forced them out of the meeting place, ſtriking them with their ſtaves, and ſome friends getting up into ſome upper rooms the Soldiers followed them up, &amp; broke open the door and came to them, and there beat them &amp; abuſed them very much, and at that time they drove ſome Friends into the water, and one they puſht
+<pb n="17" facs="tcp:103495:11"/> down in the water, and bruiſed him ſo that the Blood ran down, another mans head was broken, and his blood ſhed in the ſtreet.</p>
+               </div>
+               <div n="Middlesex" type="county">
+                  <head>
+                     <hi>Middle-ſex.</hi> 
+                     <date>the ſixth day of the third Month, 1660.</date>
+                  </head>
+                  <p>Some of the People of God being met together, <hi>&amp;c.</hi> in the houſe of one <hi>John Elſon,</hi> in <hi>St. Johns</hi> ſtreet, (ſo called) there came a great company of rude people who violently threw ſtones at the ſaid <hi>John Elſon,</hi> (and other Friends) and broke his windows very much, and endeavoured to break down his door, and after the meeting was ended, the rude multitude fell upon one man, and pluckt off much of his hair, and ſhed much of his blood, and rent the clothes of others, and threw dirt in the ſaid <hi>John Elſons</hi> face and eyes, and ſpit upon him.</p>
+               </div>
+               <div n="Wiltshire" type="county">
+                  <head>
+                     <hi>Wilt-ſhire.</hi> 
+                     <date>the 13. of the 3d. month called <hi>May,</hi> 1660.</date>
+                  </head>
+                  <p>Many Friends being aſſembled together in the fear of God in <hi>Cummerwell</hi> in the Pariſh of <hi>Bradforth,</hi> there came ſeveral Troopers of Captain <hi>Edward Hungerfords</hi> Troop, who forced into the meeting, and pul'd out one <hi>Robert Storr,</hi> and had him to the City of <hi>Sarrum</hi> before the Commiſſioners, who upon examination of him ſaid, they found that he had been at an unlawful meeting, and ſo commit<g ref="char:EOLhyphen"/>ted him to priſon.</p>
+               </div>
+               <div n="Gloucestershire" type="county">
+                  <head>
+                     <hi>Glouceſter-ſhire,</hi> 
+                     <date>the 8. day of the 3d. month, 1660.</date>
+                  </head>
+                  <p>Friends being peacably met together (in <hi>Maſe-moor</hi>) to wait upon the Lord, there came one <hi>John Coney</hi> of that place with a ſword in his hand, and violently thruſt open the door, and came into the room, and ſaid be gone, and ſtruck one <hi>Nicholas Wasfield</hi> ſeveral blows with his ſword in his ſcabbard, after which he drew his ſword, and thruſt violently at the ſaid <hi>Nicholas Wasfield,</hi> and gave him many ſore blows on the ſhoulders with his naked ſword, and being asked by whoſe order he did this, he ſaid by the Mayors order.</p>
+                  <p>At another meeting of Friends at <hi>Cirenciſter</hi> in the County aforeſaid, on the 15. day of the 3d. Month, 1660. and on the 16. day at <hi>Nailſworth,</hi> there came (a wicked man that is a great Profeſſor, with ſome others with him, with their ſwords drawn and their piſtols cocked, and lighted matches in their hands) into the meeting, and laid hands on one Friend, and had him before the Mayor of <hi>Gloceſter,</hi> who ſaid to the Marſhal he ſhould take him away, and ſet a ſtrong guard of Musketeers to look to him, and this they did upon ſuſpition that he was a Jeſuit.</p>
+               </div>
+               <div n="Wiltshire" type="county">
+                  <head>
+                     <hi>Wilt-ſhire.</hi> 
+                     <date>the 16. day of the 3d. Month, 1660.</date>
+                  </head>
+                  <p>Friends being met together in the fear of the Lord at <hi>Calne,</hi> there came into the meeting ſeveral rude Souldiers with two Serjeants, who are under the command of Colonel <hi>Edward Bainton,</hi> and of his own company, commanded by Captain Lieu<g ref="char:EOLhyphen"/>tenant <hi>John Lavington,</hi> and commanded Friends to depart their meeting, who de<g ref="char:EOLhyphen"/>ſired to ſee their order, for breaking up their meeting, they being peacably met together, but the Souldiers anſwered their ſwords was their authority, and ſo with violence did hale Friends out of their meeting, uſing threatening words, and came in amongſt Friends with drawn ſwords and muskets cockt, although Friends made no reſiſtance.</p>
+               </div>
+               <div n="Cumberland" type="county">
+                  <head>Cumberland.</head>
+                  <p>At a meeting of Friends at <hi>Carliſle,</hi> the Souldiers came to the meeting, and with violence haled and thruſt out Friends out of their own houſe, and carried ſome to their guard, and one Friend they pluckt out by the head when he was at prayer, and pluckt him down.</p>
+               </div>
+               <div n="Lancashire" type="county">
+                  <head>
+                     <hi>Lanca-ſhire,</hi> 
+                     <date>the 13. day of the 3d. Month, 1660.</date>
+                  </head>
+                  <p>
+                     <hi>John Thomas</hi> a ſervant of Sr. <hi>George Middleton</hi> (ſo called) ſet upon three wo<g ref="char:EOLhyphen"/>men with impudent ſcoffs, ſaid he would kiſſe one of them, and did abuſe them and wrong them, and pluckt their coats looſe. And the ſame man did abuſe Friends, and he would have cut Friends with an Ax, but that he was reſtrai<g ref="char:EOLhyphen"/>ned
+<pb facs="tcp:103495:12"/> by ſome of his fellows, and the ſame Knights man ſet upon ſix friends as they were going to a Meeting to wait upon the Lord, who beat them and a<g ref="char:EOLhyphen"/>buſed them, and bruiſed their faces, and ſhed much of the blood of two of them.</p>
+               </div>
+               <div n="Cheshire" type="county">
+                  <head>
+                     <hi>Che-ſhire,</hi> 
+                     <date>17. day of the 3d. Moneth, 1660.</date>
+                  </head>
+                  <p>Friends being at a Meeting at <hi>Northwich,</hi> there came one <hi>John Cumberbatch</hi> of <hi>Nantwich,</hi> with many others of the new raiſed <hi>Militia,</hi> and haled out three of our friends, and carried them before the Commiſſioners, and keeps one a Priſo<g ref="char:EOLhyphen"/>ners, and ſhewed much abuſe to friends.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>
+                     <hi>York-ſhire,</hi> 
+                     <date>12. day of the 3d. Moneth, 1660.</date>
+                  </head>
+                  <p>Friends going to a Meeting at or near <hi>Bellerbe,</hi> the <hi>Militia</hi> Souldiers beat them and broke their Meeting, and violently abuſed them, and ſtruck them with their naked Swords, and would not ſuffer them to meet, and this they did in the Name of the Higher Powers.</p>
+               </div>
+               <div n="Cambridge" type="county">
+                  <head>
+                     <hi>Cambridge,</hi> 
+                     <date>8. of the 3d. Moneth called <hi>May,</hi> 1660.</date>
+                  </head>
+                  <p>At a Meeting of Friends in <hi>Wesbidge, Thomas Lecock</hi> had his head broke that the blood ran down, and was knockt down, alſo another man was feld down with ſtones, alſo a maid was ſhot in the neck with a Piſtol which did receive much harm, and one <hi>William Allen</hi> was pluckt out of the Meeting, and when they had got him out, they cryed fall on, and few there was of our Friends that paſſed away without receiving much hurt, and it was judged by friends, that a load of ſtones and dirt were thrown into the Meeting room at Friends.</p>
+                  <p>At a Meeting of Friends in <hi>Cambridge</hi> on the twentieth day of the 3d. Moneth, 1660. there came a great company of Scholars and other rude people to the meet<g ref="char:EOLhyphen"/>ing, and did exceedingly abuſe Friends, by dragging them out of the Meeting, and kicking them, and throwing them againſt the ground both old and young, men and women, and tore one Friends heir off his head, and abuſed others ſo, that it is a ſhame to relate.</p>
+               </div>
+               <div n="Gloucestershire" type="county">
+                  <head>
+                     <hi>Glouceſter-ſhire,</hi> 
+                     <date>25 of the 3d. Moneth, 1660.</date>
+                  </head>
+                  <p>Two Friends being in a houſe reading in the Bible, there came in ſome Souldiers and fetcht them before the Captain, who askt them ſeveral queſtions to enſnare them about the King, and would have forced them to drink the Kings health, and when he ſaw they would not be ſubject to his will, he began to rage, and en<g ref="char:EOLhyphen"/>quired for the ſtocks, and then he called for a halter, and put it about one of the Friends neck, and ſo they put it over an iron hook, and ſtrained it as if they would have (immediately) taken away his life, and then he committed them into the hands of the Conſtable, and about two hours after they were brought before him again, and he asked them about the King again, and being not anſwered according to his will, he was much enraged againſt them, and ſtruck them ſeveral times on their bare heads, with his Piſtol, and then after much threatning he let them go. And the ſame Captain <hi>Abbington</hi> came that day to <hi>Nailſworth</hi> where Friends Meeting was, and got Bear, and would have had one Friend to drink the Kings health, but he refuſed and ſaid if the King were there himſelf, he did believe that the King would not require it of him, then one of the Souldiers pre<g ref="char:EOLhyphen"/>ſented a Piſtol towards him and threatned to ſhoot, and ſtruck fire, and the ſame Souldiers beat and abuſed other friends at that time, and one of the Souldiers fell upon one Friend, and drew his ſword, and threatned to run him through, and afterwards put a rope about his neck, as if that they would have hanged him.</p>
+                  <p>At another meeting of Friends on the firſt day of the 4th. moneth, 1660. the ſame Souldiers with a drum beating, came violently into the meeting place with their ſwords drawn, and Guns and other weapons, and one of the Souldiers with a naked ſword in his hand puld down the friend that was a declaring, and forced him out of the room, and took away him and moſt of the men that were there as Priſoners, and the Mayor of <hi>Glouceſter</hi> committed two of them to priſon, where they yet remain.</p>
+                  <pb facs="tcp:103495:12"/>
+                  <p>On the third day of the fourth Month Friends being peacably met together, to wait upon the Lord at <hi>Chillingham,</hi> there Game a Souldier under Captain <hi>How,</hi> and ſaid he had Orders to Break up the meeting, and hailed one out, and becauſe he could not break up the meeting himſelf, he ſaid he would fetch more Souldiers, who when they came ſaid they had Orders to break up ſuch meetings; then the Friends asked them to ſhew their Orders, but one replyed his ſword was his Order, and asked whether they would have it, adn ſo fell upon them and haled them forth violently out of the meeting, and one of the Souldiers drew his ſword at a Friend, and ſaid he would run him thorow.</p>
+               </div>
+               <div n="Cambridge" type="city">
+                  <head>
+                     <hi>Cambridge</hi> 
+                     <date>upon the eight of the ſecond Month called <hi>April,</hi> 1660.</date>
+                  </head>
+                  <p>The Scholers with other rude People came into our meeting place (where we were met to worſhip God) did fall violently upon us, beating us until they drew the blood of many, pulling us out by the hair of the head, having no regard to old or young, men nor women with child, but tearing their cloaths, caſting them in<g ref="char:EOLhyphen"/>to the naſty and loathſome Channels in the ſtreets, and thoſe things they con<g ref="char:EOLhyphen"/>tinued to us as a practice in our meetings; upon the thirteenth of the third Month called <hi>May,</hi> in the like manner they came into our meeting and violently broke the Locks and boults with great hammers, ſhamefully abuſing many, and no Magi<g ref="char:EOLhyphen"/>ſtrate appearing to ſuppreſs theſe things, but Alderman <hi>Blakely,</hi> whom they alſo abuſed in the like manner throwing him in the Channel.</p>
+                  <p>Again upon the twenty ſeventh of the ſame Month the Scholers joyned them<g ref="char:EOLhyphen"/>ſelves together in a great number, falling upon us with ſticks, and ſtruck Friends on the heads, faces and hands to the hurting of many; a Juſtice of peace being in the room charged them in the Kings Name ſeveral times to be quiet and to keep the peace, but they not regarding that Authority, proceeded in violence, and got a Smiths great hammer, and broke open four doors, and broke a wooden win<g ref="char:EOLhyphen"/>dow, and took pieces of the boards and beat us with them, and drew us out into the ſtreets, and there knocked ſeveral of us down, ſhedding the blood of twenty four perſons, that the blood lay upon the ſtones in the ſtreet, in the ſight of the People; and thus having broke down all the ſeats, windows and ſtairs, that the people could not get up into their lodging chambers, and having pulled us out into the ſtreets, ſome they held untill others put dirt into their mouths; at the ſame time alſo they ſtabbed two women in the ſtreet, as it is judged, with pen<g ref="char:EOLhyphen"/>knives, the one being an Aldermans Wife in the Town, the other a widow woman.</p>
+                  <p>And in the like manner every firſt day of the week do they continue abuſing of us more or leſſe, And the Mayor of the Town who ſhould diſcourage and puniſh theſe evil doers, doth countenance and incourage them in it, ſetting his Officers to ſtop us from our meeting, ſaying, we ſhall have no more meetings, and hath given order unto his Officers to hinder us the next firſt day. Theſe are but a hint of things to repreſent the whole.</p>
+                  <p>
+                     <hi>Witneſſes hereof</hi>
+                     <list>
+                        <item>
+                           <hi>Henery Forſter</hi>
+                        </item>
+                        <item>
+                           <hi>William Allen</hi>
+                        </item>
+                        <item>
+                           <hi>John Smith</hi>
+                        </item>
+                        <item>
+                           <hi>John Webb</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Nottingham</hi>
+                        </item>
+                        <item>
+                           <hi>Mathew Blakely</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Salmon</hi>
+                        </item>
+                        <item>
+                           <hi>John Moone</hi>
+                        </item>
+                        <item>
+                           <hi>Euſebius Read</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Golden</hi>
+                        </item>
+                        <item>
+                           <hi>John Peace</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Read</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Hawkes</hi>
+                        </item>
+                        <item>
+                           <hi>George Naſh</hi>
+                        </item>
+                        <item>
+                           <hi>Philip Williamſon</hi>
+                        </item>
+                        <item>
+                           <hi>Clement Crabb</hi>
+                        </item>
+                        <item>
+                           <hi>John Harte</hi>
+                        </item>
+                        <item>
+                           <hi>Ruben Stevens</hi>
+                        </item>
+                        <item>
+                           <hi>Jeremiah Roſe</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Steaton</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Wright</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Cater</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Letchworth</hi>
+                        </item>
+                        <item>
+                           <hi>Gregory Tingy</hi>
+                        </item>
+                        <item>
+                           <hi>James Blakely</hi> Alderman</item>
+                        <item>
+                           <hi>John Cranwell</hi>
+                        </item>
+                        <item>
+                           <hi>John Parnell</hi>
+                        </item>
+                     </list>
+                  </p>
+               </div>
+               <div n="Berkshire" type="county">
+                  <pb facs="tcp:103495:13"/>
+                  <head>
+                     <hi>Bark-ſhire</hi> 
+                     <date>the twenty ſeventh of the third Month called <hi>May,</hi> 1660.</date>
+                  </head>
+                  <p>Friends being peacably met together at <hi>Kingſtone-lye</hi> in that County, there came to the meeting place many rude people, four of whom went into the meeting with ſwords drawn to break up the meeting, and one friend deſiring to know their Order for ſo doing, their anſwer was their ſwords was their order, and ſo they vio<g ref="char:EOLhyphen"/>lently abuſed Friends as followeth.</p>
+                  <p>
+                     <hi>Richard Greenway</hi> was dragged by the hair of the head out of the meeting and thrown into a ſtanding poole of ſtinking water and mud; <hi>Richard Ballers</hi> was wounded with a ſword.</p>
+                  <p>
+                     <hi>John Clerk</hi> was pricked with a ſword, <hi>Edward Ballard</hi> was pricked with a ſword.</p>
+                  <p>
+                     <hi>Robert Crook</hi> had his head broke and was thruſt into a pond, and <hi>Edward Walter</hi> had his head broke.</p>
+                  <p>
+                     <hi>Barth. Mayling</hi> and <hi>Thomas Coeburn</hi> were both thrown into a pond and beat, <hi>Robert Samſon</hi> was beaten.</p>
+                  <p>
+                     <hi>Adam Lawrence</hi> thruſt into a pond and beat, <hi>Andrew Pearſon</hi> thrown into a pond head-long, theſe were all dragged to the pond by the hair of the head, and many others were abuſed.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>
+                     <hi>York-ſhire</hi> 
+                     <date>the thirteenth of the third Month called <hi>May,</hi> 1660.</date>
+                  </head>
+                  <p>Friends being met together (at <hi>Bellerby</hi> in the County aforeſaid) in the wor<g ref="char:EOLhyphen"/>ſhip and ſervice of God, there came to the door divers armed men crying, where be theſe rogues, we have order to break up your meeting, ſome of them ſaying we will cut you as ſmall as bread; whereupon a Friend went to the door to know the real cauſe of theſe ſo coming, and whether they had any order to hinder our peaceable meeting, ſo ſpeaking in meekneſs to them, telling them our meeting was in the fear of the Lord without a thought of harm to any Creature, and deſiring to ſee their order for ſo doing, one of them drew his ſword, and ſaid that was his order, and with it ſtruck him that ſpoke to him, upon which all the reſt fell up<g ref="char:EOLhyphen"/>on friends beating and cutting them, and pulling them out of the meeting, ſhed<g ref="char:EOLhyphen"/>ding the blood of many, and bruſing many in a moſt uncivil and cruel manner, ſtriking down many to the ground, with that violence that their ſences were taken away, ſome lying upon the ground for dead, in which act of cruelty they cryed they were for the King, and pleaded his Authority for it, and ſo do abuſe his Name and Authority, Laws and ſubjects; in which cruelty about forty men of honeſt and good repute was cut with ſwords in their heads and bodies, and bruiſed and maimed, upon which ſeveral are lame, and ſome of them ſo wounded that it may be their death, the particular wounds in head, body, and arms we ſhall forbear to mention particularly, but the cruelty of it was ſuch that there was no regard unto any man of account, office or otherwiſe, which thing being conſidered in its cruelty might break the heart of him that pitties the people, or would preſerve the Nation in peace; beſides ſeveral women about ten or twelve were every one of them ſore abuſed with ſwords and ſtaves, and ſome of them drawn through the water, which is not onely ſuffering unto them, but is a great reproach and diſ<g ref="char:EOLhyphen"/>honour unto the ſupreme authority and government in this Nation, which if it con<g ref="char:EOLhyphen"/>tinue will produce very bad effects.</p>
+                  <p>Some of the Names of thoſe that did appear with ſwords and ſtaves in this cruel perſecution are as followeth,</p>
+                  <list>
+                     <item>
+                        <hi>Chriſtopher Haw</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Dixon</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Colliſon</hi>
+                     </item>
+                     <item>
+                        <hi>William Imſon</hi>
+                     </item>
+                     <item>
+                        <hi>Leonard Wright</hi>
+                     </item>
+                     <item>
+                        <hi>Mar. Jaques</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Burg</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Burrell</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Wright</hi>
+                     </item>
+                     <item>
+                        <hi>John Foſter</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Wray</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Dawſon</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Fawcet</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Kerby</hi>
+                     </item>
+                     <item>
+                        <hi>John Wright</hi>
+                     </item>
+                     <item>
+                        <hi>Mathew Ellerton</hi>
+                     </item>
+                  </list>
+               </div>
+               <div n="Westminster" type="city">
+                  <pb facs="tcp:103495:13"/>
+                  <head>Weſtminſter.</head>
+                  <p>On the twelf day of this Month called <hi>June,</hi> we being meet in the new Pallace<g ref="char:EOLhyphen"/>yard in the fear of the Lord, according to our accuſtomed manner, we were again abuſed by the Lacquies and rude people, and purſued as far as <hi>Whithall,</hi> and many friends had their blood drawn in a cruel manner, and after the meeting was ended the prophane People entred into the meeting houſe, and abuſed the peo<g ref="char:EOLhyphen"/>ple that dwelt there, in ſo much that we were forced to entreat ſome Officers of the Army (whom we knew) to clear the houſe, who with ſome difficulty did it, our oppreſſions are great and hard to be uttered and Numbered; Therefore O King in the fear of the Lord, lay them to heart and let them be removed, that the Land may no longer mourn for the teſtimony of Jeſus, and exerciſe of a good conſcience.</p>
+               </div>
+               <div n="Berkshire" type="county">
+                  <head>At <hi>Steventon</hi> in <hi>Bark-ſhire</hi>
+                  </head>
+                  <p>The ſeventh day of the eight Month 1660. many of the people of God com<g ref="char:EOLhyphen"/>ing together to worſhip God at <hi>Steventon</hi> in <hi>Bark ſhire,</hi> the Conſtable with many more being armed with halberts, prongs, pikes-ſtaves and other weapons, came to the houſe and pulled Friends out in a horrible brutiſh manner, tore their cloaths from their backs, and threw about ſix of them into the water, and took one man and trode upon him ſo long till the blood came from his mouth, and till ſome of the wicked brutiſh people cryed out take heed you do not ſtifle him, and ſome near 60. years of age were ſo ſerved, and then they drove us along in the dirt daſhing up the dirt upon us, and Friends demanding what warrant they had for their ſo doing, they ſaid they had Order, but ſhewed not any, and though we told them we had the word of the King for our quiet meetings, and General <hi>Moncks</hi> Order, but they regarded it not.</p>
+               </div>
+               <div n="Norfolk" type="county">
+                  <head>Norfolk</head>
+                  <p>At a meeting in <hi>Fowlſham</hi> the Conſtable charged ſeveral of the Town to aid him in the Kings Name, and hailed Friends out of the meeting, beating ſome of them himſelf, and others throwing them down in the mire rending their cloaths, and caried away above one half of one mans cloak; and when he had got the rude Multitude together he left Friends in their hands, who beat them and threw ſtones and mire upon them. <hi>John Hilton.</hi>
+                  </p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>
+                     <hi>York-ſhire</hi> 
+                     <date>the ſeventh day of the ninth Month, 1660.</date>
+                  </head>
+                  <p>Upon the twenty fourth day of the eight month in the year one thouſand ſix hundred and ſixty, <hi>Chriſtopher Taylor</hi> and <hi>Richard Scoſtrop,</hi> with many other Friends of the truth being met together in peace without harm to any, to wait upon the Lord, being in a piece of Ground belonging unto <hi>William Cave</hi> in the Town of <hi>Bramhup,</hi> Prieſt <hi>Croſsland</hi> called Miniſter of that Town, and <hi>Edward Wadington</hi> who called himſelf high Conſtable, came in amongſt us in much hatred &amp; emnity, having gathered a Multitude of the rude people and baſer ſort of together, and when the ſaid <hi>Richard Scoſtrop</hi> and <hi>Chriſtopher Tailor</hi> being moved of the Lord, did inſtruct Friends and people in the way of the Lord, the ſaid Prieſt <hi>Croſsland</hi> and <hi>Edward Wadington,</hi> was the firſt that layd violent hands on them and hailed them away, charging the rude people who were found in ſwearing, lying, and curſing to aſſiſt them, to which they were ready, like their Prieſt, ſhowing forth the fruits of his teaching, hailing and puſhing them as if they had been theeves, that <hi>Chriſto<g ref="char:EOLhyphen"/>pher Tailor</hi> was moved to ſay they were like to murther him, and <hi>Richard Scoſtrop</hi> was bloody with their tearing of him, not ſuffering them to ſpeak any words of exhortation to the people. But Prieſt <hi>Croſsland</hi> ſaid they had an order from the King not to ſuffer us to meet or ſpeak together, but we ſuppoſing it was not ſo, the Kings word being that none ſhould trouble or moleſt us for our Religion or
+<pb facs="tcp:103495:14"/> opinion, while we lived peacably in the Nation, we demanded to ſee his warrant, which he denyed; and the rude people pulled <hi>Richard Scoſtrop</hi> as they were com<g ref="char:EOLhyphen"/>anded by their Prieſt, up from his knees, being calling upon the Name of the Lord in prayer with Friends; now let all who have any ſoberneſs or underſtanding conſider if this Prieſt who is called a Miniſter of Chriſt, abides in his Doctrine, or if he be come to the Law and the Prophets, who ſaith, do unto all men as you would they ſhould do unto you, or did he ſo unto us; and he and the reſt drag<g ref="char:EOLhyphen"/>ged us out of their Town, and after they had like Wolves amongſt ſheep, teared us out of their Town, would not ſuffer us to ſtay in the common ſtreet, or reſt, but haled us on a long lane, and ſhoved us toward a common, far from the Town, and would not by any word was ſpoken, keep themſelves in peace towards us who offered harm to none.</p>
+                  <p>Now in this manner and many ſeveral waies are we by Magiſtrates, prieſts and rude people who are incouraged and by their leaders cauſed to err, perſecuted in pretence of warrant from the King, and power given from him, and as it was in <hi>Olivers</hi> time done by them unto us, ſo is it now, and our ſufferings in many places greater, and the hand of the evil doers more ſtrenghthened againſt us, who ſince we were a people, have not perſecuted any, or ſought revenge againſt our perſecutors in the leaſt manner, but with patience have ſuffered what hath been done unto us, knowing that all who will live godly in Chriſt Jeſus muſt ſuffer per<g ref="char:EOLhyphen"/>ſecution, and be hated of all men for his Names ſake, and do rejoyce that we are counted worthy.</p>
+                  <p>
+                     <hi>Theſe Friends of the truth whoſe Names are under written, who do give their Teſtimony of the truth and of Things herein mentioned, who were preſent at the time of this perſecu<g ref="char:EOLhyphen"/>tion,</hi> Nicolas Rawſon, John Jackſon, Michael Renold, Anthony Weſt, William Overhead, John Barber, with many more Friends.</p>
+               </div>
+               <div n="Darlington" type="town">
+                  <head>
+                     <hi>Darlington</hi> 
+                     <date>the eighteenth of the ninth Month, 1660.</date>
+                  </head>
+                  <p>This day week our meeting was broken, and ſome had before one called a Juſtice, who theatened if we met again, to ſend us to priſon.</p>
+               </div>
+               <div n="Southhampton" type="county">
+                  <head>South-hampton.</head>
+                  <p>Friends being met together in the fear of the Lord in <hi>Portſmouth, videlicet,</hi> On the twenty one day of the eight Month laſt paſt they met together in ſilence at a Friends houſe, where as they were waiting upon the Lord there came a guard of Souldiers and beſet the houſe, and ſome they hailed out of the meeting, and drag<g ref="char:EOLhyphen"/>ged the man out of the houſe down the ſtreet to the main guard, and then brought him up to his houſe again, and ſhut him with the reſt in the houſe until the ſecond day about the ſeventh hour at night, and then turned them forth and withdrew their guard; then upon the next firſt day being the twenty eight day of the eight Month, as Friends were met together, there was likewiſe a guard of Souldiers beſet the houſe and kept about twenty and one perſons cloſe priſoners in the Friends houſe (which was all that were then gathered together) and there kept them, not ſuffering any proviſion to come to them but <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> they kept them all there until about the ſixth day of the week following, and then came and haled forth ſuch as was not of the Town and ſet them at liberty, but the reſt being about ten Friends they keep ſtill priſoners in the houſe; then the laſt firſt day thoſe that were not Impriſoned met together in another place at a Friends houſe, and them they haled forth of their meeting and committed the men to a priſon in the Town called <hi>Felltons</hi> hole, where they ſtil remain, and all this is (as they ſay) becauſe Friends will not promiſe them not to meet any more in Town as the bap<g ref="char:EOLhyphen"/>tiſts hath done; This is a ſhort relation of their cruelty in that place towards Friends.</p>
+               </div>
+               <div n="Monmouthshire" type="county">
+                  <head>Monmouth-ſhire.</head>
+                  <p>
+                     <hi>David Jones</hi> Impriſoned in that County for not coming to the ſteeple-houſe, who
+<pb facs="tcp:103495:14"/> if he would pay 1. s. per week for 12. Moneths paſt, all which time he hath not been there, which comes to 2. pounds 12. s. he might be releaſt.</p>
+               </div>
+               <div n="Fleet" type="prison">
+                  <head>Fleet <hi>London.</hi>
+                  </head>
+                  <p>
+                     <hi>John Pollard</hi> and <hi>Joſeph Pollard</hi> impriſoned firſt in <hi>Colcheſter</hi> Caſtle 13. Moneths and 2. weeks, then returned from <hi>Colcheſter</hi> to the upper Bench priſon, and there kept priſoner five Moneths and a week, and is ſince committed to the Fleet Priſon, at the ſuit of <hi>Mathias Armiger,</hi> Farmer of Tythes, who with <hi>Benjamin Maddock</hi> (for leſs then 2. years Tythes valued to be worth about 35. pound) have taken 57. Cows and Bul<g ref="char:EOLhyphen"/>locks, with one Bull, in all worth about 12. ſcore pounds from the ſaid <hi>John</hi> and <hi>Joſeph Pollard,</hi> and returned nothing again, and is kept a Priſoner beſides.</p>
+               </div>
+               <div n="Yorkshire" type="county">
+                  <head>York-ſhire.</head>
+                  <p>
+                     <hi>Samuel Thornton,</hi> being in a Meeting at <hi>Leeds,</hi> with many more of the Lords peo<g ref="char:EOLhyphen"/>ple, though he be a free man of the ſame Town, was taken violently out of the Meeting by <hi>Martin Iles</hi> and <hi>John Dawſon</hi> Alderman, and hailed to Priſon, and there detained 5. dayes, with ſeveral others which was alſo haled forth of the ſame Meeting, which were Inhabitants within the ſaid Borrough, and the ſaid <hi>Samuel Thornton,</hi> by the ſaid Alderman was ordered to be whipt and ſent from Conſtable to Conſtable, which was done accordingly, though the place of his natural birth was but three miles from thence, and he well known in the ſaid Town.</p>
+                  <p>Alſo, <hi>Samuel Thornton</hi> was taken forth of a peaceable Meeting of the people of God at <hi>Holbetk,</hi> by order of the Prieſt there, and haled to <hi>Leeds</hi> before the ſaid Alderman with two more, who cauſed a Mittemus to be made and ſent him to the Correction-houſe at <hi>Wakefield</hi> for a Vagrant, where he was detained three Moneths, and he had been an Apprentice in the ſame Town, and after was cal<g ref="char:EOLhyphen"/>led to the Seſſions and there fined 10. pounds and ſent to Priſon again, though he had broken no known Law, nor for any other thing, but for being in a peace<g ref="char:EOLhyphen"/>able Meeting amongſt Gods People.</p>
+                  <p>
+                     <hi>Dudly Templer</hi> of <hi>Wethersfield</hi> in <hi>Eſſex,</hi> ſent <hi>William Allen</hi> to Priſon, for no other cauſe but for coming to the Town of <hi>Wethersfield</hi> to a Meeting there, and ſince from time to time his Clerk with many of the Town, in a violent man<g ref="char:EOLhyphen"/>ner have pulled us out of our Meetings, and not ſuffered us to be at quiet, but ſometime ſet guards of men in ſeveral places to keep us from meeting, and ſometime fined ſeveral for coming to our meeting, and from <hi>John Child,</hi> by a warrant from him or by his Order, they pretending a warrant, they took a horſe, Sadle and Pillion and what belonged to him, and kept him three weeks but one day, and then ſent him home, without ſadle, bridle, pillion and the reſt which they keep to this day, notwithſtanding have been oft demanded of them; And they beat many friends much for coming to the Town, and ſuffered rude boyes and others without reproof to abuſe ſober people, to the ſhame of Juſtice and the poſſeſſion of their Town, and this hath been done in the preſence and hear<g ref="char:EOLhyphen"/>ing of him the ſaid <hi>Dudly Templer</hi> and not reproved; And he himſelf hath ſcoff<g ref="char:EOLhyphen"/>ed at Friends, and evil intreated many, and ſet the rude people on to hale us out of the Town, when if any thing could have been charged againſt us, he be<g ref="char:EOLhyphen"/>ing a Juſtice and a Commander of a Troop of Horſe, might have brought any of us to tryal, and not in ſuch a manner, contrary to Law and Juſtice, have abuſed us, and broken the peace of this Nation, and ſo rendred himſelf uncapable to to Rule, and is to be ruled by Juſtice himſelf.</p>
+                  <p>And of this his proceedings hundreds can teſtifie who have been eye-witneſſes, and ſufferers by him, and his Clerk, and others of the Town of <hi>Wetherfield.</hi>
+                  </p>
+               </div>
+               <div n="Essex" type="county">
+                  <head>Eſſex.</head>
+                  <p>At a Meeting in <hi>Thaxted</hi> in <hi>Eſſex,</hi> the People of God being met peaceably toge<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:103495:15"/> to wait upon the Lord, a great company of rude people of the Town gathered otgether about the houſe, ſwearing and curſing what they would do to the Quakers as they called them, and the place of their meeting being neer the high way, they caſt in dirt and ſtones, to the great annoyances of the peaceable people that were then waiting upon the Lord, and they were much abuſed by ſtones and abundance of dirt caſt upon them, which the rude people took out of the open ſtreet; and there came a drunkard ſwearing and raging, like unto a mad man, and he and the rude people broke into the houſe, and laid violent hands upon many of the peaceable people, and endeavoured to pull him down that was ſpeaking to the people in the fear of God.</p>
+                  <p>And for ſome hours in this manner they abuſed ſober people in their own houſe that were met together to wait upon the Lord and to worſhip him in ſpirit; and when ſome went to ſome of the Magiſtrates in the Town to acquaint them with this abuſe, deſiring them to keep the peace, they made light of the matter, and would not appeaſe the rude Multitude nor preſerve the ſober people in their juſt right and liberties, for it was ſaid that one of the Magiſtrates ſhould ſpeak to the drunken fellow aforeſaid to come up into our meeting, and bad him make ſport; and ſo great was the abuſe that the ſober People was forced to remove their meeting to another place, whither the rude people alſo followed them, and did caſt dirt and ſtones at them.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>Some more of the cruel ſufferings of the people of God called Quakers related, which hath been acted in the Town of <hi>Cambridge</hi> by the rude Scholars, Souldiers and Towns people.</head>
+               <div n="Cambridge" type="city">
+                  <head>Cambridge.</head>
+                  <p>UPon the thirteenth day of the third Month following, (called <hi>May</hi>) the Scholers and rude Multitude came and brake open ſeveral doors and burſt the locks and bolts with a great hammer, and when we paſſed out from our mee<g ref="char:EOLhyphen"/>ting we were moſt ſhamefully abuſed by the Scholars and rude Multitude, ſeveral hundreds ſtanding in the ſtreets, ſome beating of us, and ſome rejoycing to ſee us beaten.</p>
+                  <p>Upon the twentieth day of the ſame Month, the Scholers and Souldiers and the rude Multitude came in with one of the chief Conſtables which ſaid, that the Mayor had a letter from <hi>Ja. Tompſon</hi> of <hi>Trumpington,</hi> called a Juſtice, which did in<g ref="char:EOLhyphen"/>form the Mayor that ſeveral of us had arms, whereupon we deſired that we might be ſearched, they ſearching ſome few of us &amp; finding none, the rude Multitude fell violently upon us and drew ſome of us out by the hair, and pulled and haled all the reſt out, and kickt <hi>William Allen</hi> who was moved to declare the truth to the people in the Power of the Lord, being ſo groſly abuſed, that he was very unable to go abroad for ſeveral days.</p>
+                  <p>After that we was parted from the meeting-houſe, they came with hammers and what pieces of wood they could get, and fell to work on their Sabbath day, and they did break and batter the houſe within and without, that it is judged by their own Generation that twenty pounds will ſcarce make it as i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> was.</p>
+               </div>
+               <div n="Cambridge" type="county">
+                  <head>Sutton.</head>
+                  <p>
+                     <hi>Henry Foſter</hi> was pulled out of the meeting houſe, and had before the Mayor and Aldermen where he was ſearched for Arms, but found none, and diſcharged to come any more to his own hired houſe upon a firſt day.</p>
+                  <p>Upon the ſecond of the fifth Month, 1660. Friends being peaceably met to<g ref="char:EOLhyphen"/>gether, ſeveral of the Scholars and others with them came with a Smiths great
+<pb n="25" facs="tcp:103495:15"/> hammer and other things, and broke up the houſe, although two doors was open into the ſame, and with the boards and ſhivers of the houſe armed themſelves, with which they knockt down many in the houſe and in the ſtreet, ſhedding the blood that day of near thirty, and bruiſing the fleſh of nere an hundred in a very lamen<g ref="char:EOLhyphen"/>table manner, ſome of whom were dangerouſly wounded.</p>
+                  <p>Alſo the eight of the fifth Month the Scholers aſſaulted the meeting again, and tore friends out in an exceeding uncivil manner; And on the 15th. day they broke up Friends meeting again and near pulled down the houſe, and with the ruins of the ſame wounded ſeveral Friends.</p>
+                  <p>And beſides, the Scholers and others that joyn with them, do daily tear friends cloathes as they paſſe in the Streets, and nip and abuſe their fleſh, and pull them by the hair, and ſtone, buffet and knock Friends down when they have pulled them out of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eeting and tread them in the channels, that had not the Lord wonderfully preſerved them, many Friends had been ſlain ere now.</p>
+                  <p>The Names of part of twenty four that had their blood ſhed by the Scholers and others in <hi>Cambridge,</hi> beſides many that had their cloaths rent and knockt down in<g ref="char:EOLhyphen"/>to the Channels and kickt and trod upon, and one was kept in the mud till he was almoſt ſmothered, and others pinched and pulled by the noſe, and ſome ſtab<g ref="char:EOLhyphen"/>bed.</p>
+                  <list>
+                     <item>
+                        <hi>John Smith</hi>
+                     </item>
+                     <item>
+                        <hi>John Webb</hi>
+                     </item>
+                     <item>
+                        <hi>Ann Norris</hi>
+                     </item>
+                     <item>
+                        <hi>William Allen</hi>
+                     </item>
+                     <item>
+                        <hi>John Ware</hi>
+                     </item>
+                     <item>
+                        <hi>Thomazin Blackly</hi>
+                     </item>
+                     <item>
+                        <hi>Margret Mathews</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Letchworth</hi>
+                     </item>
+                     <item>
+                        <hi>William Page</hi>
+                     </item>
+                     <item>
+                        <hi>George Nath</hi>
+                     </item>
+                     <item>
+                        <hi>John Tournel</hi>
+                     </item>
+                     <item>
+                        <hi>Chatris Edward</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Blackly</hi>
+                     </item>
+                     <item>
+                        <hi>John Harvy</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Salmon</hi>
+                     </item>
+                     <item>
+                        <hi>Phillip Williamſon</hi>
+                     </item>
+                     <item>
+                        <hi>William Wells</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Gray</hi>
+                     </item>
+                     <item>
+                        <hi>Phillip Viping</hi>
+                     </item>
+                     <item>
+                        <hi>James Viping</hi>
+                     </item>
+                  </list>
+               </div>
+               <div n="Cheshire" type="county">
+                  <head>Cheſhire</head>
+                  <p>Friends being met together in the fear of the Lord at one <hi>Lawrence Fletcher</hi> his houſe, there came ſome Souldiers and broke up the meeting, and they fell on the Friends and haled them forth, and ſome they threw forth, and down, tearing others by the hair of the head till they had all forth, and this they did without ſhewing any order, but being asked for their order, they ſaid they had left it at the Town.</p>
+               </div>
+               <div n="Glamorganshire" type="county">
+                  <head>Glamorgan-ſhire</head>
+                  <p>In the eight Month called <hi>October,</hi> 1660. Friends being peaceably met together, ſeveral Souldiers with their Muskets, ſwords &amp; lighted matches, in a brutiſh man<g ref="char:EOLhyphen"/>ner took all the men Friends out of their Meeting, being twenty, and had them to the Caſtle and ſet them in the Dungeon till the next day, and then the oath of Allegiance was proffered to them, &amp; becauſe they could not break Chriſts comand (who ſaith ſwear not at all,) they were ordered to be kept priſoners where they yet remain, this tenth Month, 1660.</p>
+               </div>
+               <div n="Gloucestershire" type="county">
+                  <head>From <hi>Cirenceſter</hi> in <hi>Gloceſter-ſhire.</hi>
+                  </head>
+                  <p>Wee whoſe names are here under written, on the eighteenth day of the ninth Month w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re met peaceably together in the fear of the Lord, there came in amongſt us the two high Conſtables ſo called, with other Offices and men of our Town that were gathered together, charging us in the Kings Name to go along with them, anſwer was made that we were met peacably together in the fear of the Lord, and if they had any thing to lay to our charge we were there ready to make anſwer; but that would not ſatisfie them, and one of them ſaid he had a warrant from the Lord <hi>Harbert</hi> to take us, we requiring the warrent to be ſhewed,
+<pb n="26" facs="tcp:103495:16"/> but could not ſee it, they gave order firſt to hale our women and children forth, and then ſaid they would ſend for piſtols, and when they had diſcharged three or four amongſt us, we would be willing to go forth; but we were not willing to break our meeting, ſo they began to hail and teare and puſh us ſorth adoors and ran againſt us as wee paſſed along the ſtreets; we acquainted them that the King had promiſed no ſuch thing; ſo they brought us to priſon and thruſt us in, and gave the Jaylor orders to keep us there untill the Comiſſioners came to Town, and at preſent there we remain priſoners for the truths ſake.</p>
+                  <list>
+                     <item>
+                        <hi>Thomas Onyon</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Newcome</hi>
+                     </item>
+                     <item>
+                        <hi>Walter How lings</hi>
+                     </item>
+                     <item>
+                        <hi>John Roberts</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Gray</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Townſend</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Barnfield</hi>
+                     </item>
+                     <item>
+                        <hi>John Silveſter</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Elridge</hi>
+                     </item>
+                     <item>
+                        <hi>William Hinton</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Bartlot</hi>
+                     </item>
+                     <item>
+                        <hi>John Ovendell</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Stacy</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Bowly</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Knight</hi>
+                     </item>
+                     <item>
+                        <hi>John Clark</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Bowly</hi>
+                     </item>
+                     <item>
+                        <hi>John Cripes</hi>
+                     </item>
+                     <item>
+                        <hi>Jacob Howlings</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Sparks</hi>
+                     </item>
+                     <item>
+                        <hi>William England</hi>
+                     </item>
+                  </list>
+               </div>
+               <div n="Durham" type="county">
+                  <head>Durham</head>
+                  <head>
+                     <hi>Darlington</hi> 
+                     <date>the third of the tenth Month, 1660.</date>
+                  </head>
+                  <p>Where we the people of God called Quakers had a meeting peaceably, and waiting upon the Lord in the aforeſaid Town, the Captain ſent ſome Souldiers, and violently broke up our meeting and carried away forty or more of us to the Caſtle of <hi>Durham,</hi> and as we were paſſing along we met the Captain and the Juſtice who threatened us much in high expreſſions, and five of us they ſingle out, and ſaid we ſhould go to priſon if we did not give bond for our good behaviour, and four of them is ſent to <hi>Durham</hi> Caſtle, for no other cauſe but for meeting together to worſhip God in ſpirit, according to Chriſts Doctrine, which now is come to be fulfilled and witneſſed.</p>
+               </div>
+               <div n="Portsmouth" type="city">
+                  <head>
+                     <hi>Portſmouth</hi> 
+                     <date>the ſecond of the tenth Month, 1660</date>
+                  </head>
+                  <p>As the people of the Lord were met together to worſhip God in the ſpirit peace<g ref="char:EOLhyphen"/>ably in the ſaid Town, Captain <hi>Sprag</hi> ſent ſeveral files of armed men with firelocks, and violently haled out of our meeting eighteen men and women, and punched them &amp; dragged them along, &amp; ſhut the Gates, &amp; men and wives were turned from their habitations, and children and families and callings, and are not permitted to come in again, though ſome came in again, yet were turned out of the Town again from their Families and imployments, &amp; ſome deſiring to have their Inſtruments to labor withal was not permitted; beſides were kept in a houſe where Friends met, by a guard nineteen daies, denyed to ſee their wiſes, Families, Children, and gave commandment no victualls ſhould be brought to them; and a Officer ſaid if they turnd us out of the Town, and ſet Souldiers to plunder our houſes they ſerved us well enough, though we never acted any thing againſt this Gover<g ref="char:EOLhyphen"/>ment.</p>
+               </div>
+            </div>
+            <div n="Ireland" type="country">
+               <head>Ireland.</head>
+               <p>FOr ſpeaking the truth to people in Steeple-houſes, Markets and other places (have ſufferred in the Nation of <hi>Ireland</hi>) and for other cauſes herein expreſt, have been fined, whipt, Stockt, Impriſoned and ſuffered loſs of their goods, 94 perſons</p>
+               <p>For meeting together in the fear of the Lord in their own houſes according to the practice of the Apoſtles and the true Churches in the Scriptures mentioned, have been Impriſoned, <hi>&amp;c.</hi> nineteen perſons.</p>
+               <pb n="27" facs="tcp:103495:16"/>
+               <p>For ſpeaking the truth to the people in Steeple-houſes and Markets, and other places have been Whipt and Impriſoned, and ſome ſtockt and ſhamefully beaten and abuſed, thirty four perſons.</p>
+               <p>For not ſwearing, as Chriſt commands they ſhould not ſwear, two perſons had goods taken from them worth eight pounds ten ſhillings, and one had taken from him ſeventy barrels of Salt.</p>
+               <p>For not paying Tythes for conſcience ſake, that bears Teſtimony to the ever<g ref="char:EOLhyphen"/>laſting Prieſt-hood, that ends the firſt that takes tythes, eight perſons for two pounds ſixteen ſhillings four pence demanded for Tythes, have had taken from them goods worth thirty four pounds ten ſhillings.</p>
+               <p>Stopt (as they were paſſing the ſtreets and high ways about their occaſions) and Impriſoned twelve Perſons.</p>
+               <p>For receiving Friends, and for viſiting Friends in Priſon, one was Impriſoned, and another fined five pounds.</p>
+               <p>Sufferers for other cauſes for the truths ſake eleven Perſons.</p>
+            </div>
+            <div n="Scotland" type="country">
+               <head>An Account of the ſufferings of Friends in <hi>Scotland,</hi> where there hath ſuffer<g ref="char:EOLhyphen"/>ed for the cauſes hereafter expreſt, in all ninety one Perſons.</head>
+               <head>SCOTLAND.</head>
+               <p>For denying the Prieſt practices, have been Excommunicated forty five Perſons.</p>
+               <p>For meeting together in the fear of the Lord, have been ſtoned and beaten eleven perſons.</p>
+               <p>For ſpeaking the truth to people in Steeple-houſes and Markets, and asking Prieſts queſtions, have been Impriſoned, and ſome ſtockt and whipt, and ſome ba<g ref="char:EOLhyphen"/>niſhed, in all fifteen Perſons.</p>
+               <p>There was likewiſe Impriſoned and otherwiſe abuſed, and ſome baniſhed, and no cauſe why ſhewed, in all eighteen perſons.</p>
+            </div>
+            <div n="New England" type="colony">
+               <head>A Declaration of ſome Part of the Sufferings of the People of God in ſcorn called Quakers, from the Profeſſors in <hi>New-England,</hi> onely for the exer<g ref="char:EOLhyphen"/>ciſe of their Conſciences to the Lord, and obeying and confeſſing to the Truth, as in his light he had diſcovered it to them.</head>
+               <p>TWo honeſt and innocent women ſtripped ſtark naked, and ſearched after ſuch an inhumane manner, as modeſty will not permit particularly to mention.</p>
+               <p>Twelve ſtrangers in that Country, but freeborn of this Nation, received twenty three whippings, the moſt of them being with a whip of three cords, with knots at the ends, and laid on with as much ſtrength as they could be by the arme of their executioner, the ſtripes amounting to three hundred and ſeventy.</p>
+               <p>Eighteen Inhabitants of the Country, being freeborn <hi>Engliſh,</hi> received twenty three whippings, the ſtripes amounting to two hundred and fifty.</p>
+               <p>Sixty four Impriſonments of the Lords people for their obedience unto his will, amounting to five hundred and nineteen weeks, much of it being very cold weather, and the Inhabitants kept in Priſon in harveſt time, which was very much to their loſs, beſides many more Impriſoned, of which time we cannot give a juſt account.</p>
+               <p>Two beaten with pitcht roops, the blows amounting to an hundred thirty nine, by which one of them was brought near unto death, much of his body be<g ref="char:EOLhyphen"/>ing beat like unto a Jelly, and one of their own Doctors, a member of their
+<pb n="28" facs="tcp:103495:17"/> Church, who ſaw him, ſaid it would be a miracle, if ever he recovered, he expecting the fleſh ſhould rot off the Bones, who afterwards was baniſhed upon pain of death, there are many witneſſes of this there.</p>
+               <p>Alſo an Innocent man an Inhabitant of <hi>Boſton,</hi> they baniſhed from his Wife and Children, and put to ſeek a habitation in the Winter, and in caſe he return<g ref="char:EOLhyphen"/>ed again, he was to be kept Priſoner during his life, and for returning again, he was put in Priſon, and hath been now a Priſoner above a year.</p>
+               <p>Twenty five Baniſhments upon the penalties (of being whipt, or having their Ears cut, or branded in the hand) if they returned.</p>
+               <p>Fines laid upon the Inhabitants for meeting together and edifying one ano<g ref="char:EOLhyphen"/>ther, as the Saints ever did, and for refuſing to ſwear, it being contrary to Chriſts Command, amounting to about a Thouſand pounds, beſides what they have done ſince, that we have not heard of, many families in which there are ma<g ref="char:EOLhyphen"/>ny children are almoſt ruined by theſe unmerciful proceedings.</p>
+               <p>Five kept 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. dayes in all without food, and 58. dayes ſhut up cloſe by the Jay<g ref="char:EOLhyphen"/>lor, and had none that he knew of, and from ſome of them he ſtopt up the win<g ref="char:EOLhyphen"/>dows, hindering them from convenient aire.</p>
+               <p>One laid neck and heels in Irons for ſixteen hours.</p>
+               <p>One very deeply burnt in the right hand with the letter H. after he had been whipt with above 30. ſtripes.</p>
+               <p>One chained the moſt part of twenty dayes to a log of Wood in an open Priſon in the Winter time.</p>
+               <p>Five appeals to <hi>England</hi> denied at <hi>Boſton.</hi>
+               </p>
+               <p>Three had their right Ears cut by the Hangman in the Priſon, the door being barred and not a Friend ſuffered to be preſent, while it was doing, though ſome much deſired it.</p>
+               <p>One of the Inhabitants of <hi>Salem,</hi> who ſince is baniſhed upon pain of death, had one half of his Houſe and Land ceized on while he was in Priſon, a month before he knew of it.</p>
+               <p>At a general Court in <hi>Boſton</hi> they made an Order, that thoſe who had not wherewithal to anſwer the fines that were laid upon them (for their Conſci<g ref="char:EOLhyphen"/>ences) ſhould be ſold for Bond-men and Bond-women to <hi>Barbados, Virginia,</hi> or any of the Engliſh Plantations.</p>
+               <p>Eighteen of the People of God, were at ſeveral times baniſhed upon pain of death, ſix of them were their own Inhabitants, two of which being very aged peo<g ref="char:EOLhyphen"/>ple, and well known among their Neighbours to be of honeſt converſations, be<g ref="char:EOLhyphen"/>ing baniſhed from their Houſes and Families, and put upon traveling and other hardſhips, ſoon ended their dayes, whoſe death we can do no leſs then charge up<g ref="char:EOLhyphen"/>on the Rulers of <hi>Boſton,</hi> they being the occaſion of it.</p>
+               <p>Alſo three of the Servants of the Lord they put to death, one of them they cauſed to be Executed in 24. hours after they had taken her.</p>
+               <p>And when we heard from thence laſt, there was four more in priſon, who according to their Law, were to be baniſhed upon pain of death, and twenty four of the Inhabitants of <hi>Salem</hi> were preſented, and more fines called for.</p>
+               <p>Theſe things (O friends) from time to time have we patiently ſuffered, and not for the tranſgreſsion of any Juſt or Righteous Law, either pertaining to the Worſhip of God, or the civil Government of <hi>England,</hi> but ſimply and barely for our conſciences to God, of which we can more at large give you (or whom you may order) a full account (if you will let us have admiſſion to you, who are baniſhed upon pain of death, and have had our ears cut, who are in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> attending upon you) both of the cauſes of our ſufferings, and the man<g ref="char:EOLhyphen"/>ner of their diſorderly and illegal proceeding againſt us, Who begun with Immo<g ref="char:EOLhyphen"/>deſty, went on in Inhumanity and Cruelty, and were not ſatisfied untill they had the blood of three of the Martyrs of Jeſus; Revenge for all which we do not ſeek, but lay them before you, conſidering you have been well acquainted with
+<pb n="29" facs="tcp:103495:17"/> ſufferings, and ſo may the better conſider them that ſuffer, and may for the fu<g ref="char:EOLhyphen"/>ture reſtrain the violence of theſe Rulers of New-<hi>England,</hi> you having power in your hands, they being but the children of the family of which you are chief Rulers, who have in divers of their proceedings forfeited their Patent, as upon a ſtrict enquiry in many particulars will appear. And this (O King and you of his Counſel) we are aſſured of, that in time to come it will not repent you, if by a cloſe rebuke you ſtop the bloody proceedings of theſe bloody perſecutors, for in ſo doing, you will engage the hearts of many honeſt People unto you, both there and here, and for ſuch works of mercy, the bleſſing is obtained, and ſhewing it is the way to proſper.</p>
+               <p>We are witneſſes of theſe things.</p>
+               <p>Who beſides long Impriſonments, and many cruel whippings, had our Ears cut, <hi>John Rous, John Copland.</hi>
+               </p>
+               <p>Who beſides many long Impriſonments, divers cruel whippings, with the ſei<g ref="char:EOLhyphen"/>zing on our Goods, are baniſhed upon pain of Death, and waite here in <hi>England,</hi> and deſire that we may have an Order to return in peace to our Families. <hi>Samu<g ref="char:EOLhyphen"/>el Shattock, Joſiah Southick, Nicholas Phelps.</hi>
+               </p>
+            </div>
+            <div n="Maryland" type="colony">
+               <head>A Declaration of the Sufferings of the Inhabitants of the Providence of <hi>Ma<g ref="char:EOLhyphen"/>riland</hi> in <hi>Virginia,</hi> as followeth.</head>
+               <p>
+                  <hi>WIlliam Faller</hi> and <hi>Thomas Homwood,</hi> had taken from them becauſe they could not be conformable to the unrighteous Orders of Court made by the Officers of <hi>Cicilia Baltamore</hi> in <hi>Mariland,</hi> to the value in goods, eight pounds five ſhillings and eight pence.</p>
+               <p>Taken from <hi>Richard Keen</hi> for not training, the ſum of ſix pounds fifteen ſhillings by the Shrieff, and his Servants have received much abuſe; The Sheriff drew his Cutlaſh, and with the point made a thruſt at his Beaſt, and ſtruck him over the ſhouldiers, and ſaid you Rogue I could find in my heart to ſplit your brains; The Sheriffs name is <hi>William Courſey,</hi> there be ſeveral Witneſſes to teſtifie the Truth of this thing.</p>
+               <p>Again, this Captain of the Souldiers, whoſe name is <hi>John Odbor,</hi> with Juſtice <hi>Askam</hi> with a rude crew, drank out certain Casks of Wine bought of Juſtice <hi>Ask<g ref="char:EOLhyphen"/>ham,</hi> for which Wine they came to <hi>Richard Keen,</hi> and to other mens houſes to take away their Goods, to make payment for that which they had idlely ſpent: Juſtice <hi>Askham</hi> ſo called, coming to <hi>Richard Keens</hi> houſe, was taxed by the wife of <hi>Richard Keen</hi> for being drunk at one of their Randivous; He replyed he was not drunk, for ſaid he a man is never drunk if he can go out of the Carts way when it is coming towards him.</p>
+               <p>
+                  <hi>William Muffet,</hi> fine<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for not training to the value of ſix pounds fifteen ſhil<g ref="char:EOLhyphen"/>lings, &amp; one <hi>John Bogge</hi> an Officer of Captain <hi>Thomas Brook</hi> gave order to the Sheriff, that if he could not take his goods, to take his Cheſt, if not his Cheſt his Shirts.</p>
+               <p>
+                  <hi>John Knap,</hi> had taken from him for not training, goods to the value of ſeven pounds ten ſhillings with a Cheſt, and fined to the value of three pounds ten ſhillings for not ſwearing, he being an antient man about ſixty years of age, and hath laboured hard in the ſtrength of his dayes and years, to get thoſe goods together.</p>
+               <p>
+                  <hi>William Berry,</hi> was fined to the value of three pounds fifteen ſhillings for en<g ref="char:EOLhyphen"/>tertaining <hi>Thomas Thurſton</hi> into his houſe one night.</p>
+               <p>
+                  <hi>Michael Brooks,</hi> fined ſeven pounds ten ſhillings becauſe he could not ſwear, and four pounds ten ſhillings becauſe he could not train under the command of <hi>John Odbor</hi> Captain, who declared in the preſence of many that they were not fit to be Souldiers that could not ſwear, be drunk and whore it.</p>
+               <pb n="30" facs="tcp:103495:18"/>
+               <p>
+                  <hi>E<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d Keen,</hi> fined for not training, to the value of four pounds ten ſhillings, under the ſaid <hi>Odbor</hi> Captain.</p>
+               <p>
+                  <hi>Edward Hinkeſman,</hi> fined to the value of four pounds ten ſhillings, for not training under the ſaid <hi>J. Odbor.</hi>
+               </p>
+               <p>
+                  <hi>Henry Osborn,</hi> fined to the value of three pounds fifteen ſhillings, becauſe he entertained <hi>Thomas Thurſton</hi> one night, and to the value of four pounds ten ſhil<g ref="char:EOLhyphen"/>lings for not Training under <hi>John Odbor</hi> captain.</p>
+               <p>
+                  <hi>John Day</hi> fined to the value of three pounds fifteen ſhillings for entertaining <hi>Tho<g ref="char:EOLhyphen"/>mas Thurſton,</hi> and to the value of four pounds ten ſhillings for not Training.</p>
+               <p>
+                  <hi>Woodman Stocley</hi> fined to the value of three pounds fifteen ſhillings for not ta<g ref="char:EOLhyphen"/>king the oath of a Conſtable.</p>
+               <p>
+                  <hi>Richard Preſton</hi> was fined to the value of three pounds fifteen ſhillings for enter<g ref="char:EOLhyphen"/>taining <hi>Thomas Thurſton</hi> one night into his houſe.</p>
+               <p>Taken from <hi>John Baldwin</hi> to the value of five pounds five ſhillings for not Training.</p>
+               <p>Taken from <hi>Thomas Cole</hi> to the value of forty eight pounds becauſe he could not ſwear.</p>
+               <p>
+                  <hi>Thomas Mears</hi> was fined to the value of eight pounds five ſhillings becauſe he could not ſwear; Likewiſe <hi>John Norwood</hi> Sheriff took away in goods from the ſaid <hi>Mears</hi> to the value of five pounds becauſe his Son could not Train.</p>
+               <p>Taken from <hi>Robert Clerkeſon</hi> to the value of five pounds becauſe he could not ſwear, and for not Training, to the value of forty ſhillings.</p>
+               <p>Taken from <hi>Henry Woolchurch</hi> becauſe he could not Train to the value of five pounds five ſhillings.</p>
+               <p>Taken from <hi>Edmond Burton</hi> becauſe he could not ſwear, to the value of eight pounds, he being a poor man.</p>
+               <p>Taken from <hi>Suſan Eliot</hi> to the value of ſixteen ſhillings for her man miſſing once Training.</p>
+               <p>Taken from <hi>John Larking</hi> to the value of fifteen pounds, becauſe he could not ſwear.</p>
+               <p>Taken from <hi>Robert Harwood</hi> to the value of eleven pounds, becauſe he could not ſwear.</p>
+               <p>Taken from <hi>John Homwood</hi> to the value of ſeven pounds ten ſhillings, becauſe he could not Train.</p>
+               <p>Taken from <hi>Thomas <g ref="char:V">Ʋ</g>nderwood</hi> becauſe he could not ſwear, to the value of ſeven pounds ten ſhillings, he being a very poor lame man, and not the uſe of his Limbs to labor, and hath a Wife and four ſmal Children.</p>
+               <p>
+                  <hi>James Paſcal</hi> a poor man, having a wife and two ſmal children, and his wife big with another, <hi>John Norwood</hi> Sheriff took from him for the value of three pence three farthings, to the value of three ſhillings three half-pence, in meat that was provided for his wife and children, and ſaid that the Court had lent it him for the impriſoning of <hi>Tho. Thurſton.</hi>
+               </p>
+               <p>
+                  <hi>Jonathan Neale</hi> had taken from him becauſe he could not train, to the value of fourty five ſhillings.</p>
+               <p>
+                  <hi>Hugh Drue,</hi> fined to the value of four pounds ten ſhillings, he being a very poor man and in debt, ſold his Cow to ſatisfie part of his debts; <hi>Baltomores</hi> Officers having knowledg of it, ſeized upon that he ſold his Cow for, which was to the value of five pounds five ſhillings, becauſe he could not train.</p>
+               <p>
+                  <hi>William Davis,</hi> for not training fined to the value of four pounds ten ſhillings, and had taken from him in Goods to the value of five pounds eleven ſhillings, he being a very poor man.</p>
+               <p>
+                  <hi>William Cole</hi> had taken from him one Servant valued to be worth ſixteen pounds which was his Apprentice bound for ſeven years, valued to be worth by them five pounds five ſhillings, taken from him becauſe he could not Train.</p>
+               <p>
+                  <hi>John Norwood</hi> Sheriff, came and demanded of <hi>Samuel Chew,</hi> to the value of eigh<g ref="char:EOLhyphen"/>teen pence, for the Impriſonment of <hi>Tho. Thurſton,</hi> he denying to pay it, took from him to the value of three ſhillings.</p>
+               <pb n="31" facs="tcp:103495:18"/>
+               <p>Taken from <hi>Richard Enſal</hi> upon the ſame Demand for Impriſonment of <hi>Thomas Thurſton,</hi> for four pence halfpenny, taken from him to the value of twenty pence halfpenny.</p>
+               <p>
+                  <hi>Thomas Turner</hi> was in Court, having buſineſs there, and Coming with his Hat on before the Court, where was preſent <hi>Edward Lloyd,</hi> and <hi>Samuel Withers,</hi> they cauſed his Hat to be taken from him, and never returned it again.</p>
+               <p>Again, the ſaid <hi>Tho. Turner</hi> was before the Court where was preſent <hi>Samuel Withers,</hi> and <hi>Thomas Todd,</hi> and <hi>Thomas B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſon,</hi> and becauſe he could not bow to them they cauſed his hat to be taken away, and never returned it again.</p>
+               <p>
+                  <hi>Ralph Hawkings</hi> becauſe he could not ſwear had taken from him to the value of ten pounds five ſhillings, he being but a poor man, and it is likely, it is more than one third of his Eſtate.</p>
+               <p>
+                  <hi>Robert Dun</hi> had taken from him becauſe he could not Train, to the value of eight pounds five ſhillings.</p>
+               <p>
+                  <hi>Francis Barnes</hi> had taken from him, becauſe he could not Train, to the value of ſix pounds five ſhillings.</p>
+               <p>
+                  <hi>John Ellis</hi> for not Training, had taken from him to the value of ſix pounds five ſhillings.</p>
+               <p>
+                  <hi>Henry Carline</hi> had taken from him becauſe he could not put off his Hat in Court, to the value of three pounds fifteen ſhillings.</p>
+               <p>Taken from <hi>William Eliott,</hi> becauſe he could not Train, to the value of four pounds ſeventeen ſhillings ſix pence.</p>
+               <p>
+                  <hi>Edward Coppedg,</hi> becauſe he could not Train, had to the value of five pounds ſeven ſhillings ſix pence taken from him, and ſuffered puniſhment by whipping on the bare Back, a very poor man, having a Wife and two ſmal children.</p>
+               <p>More taken from <hi>Henry Carline</hi> for not Training, one Cow, one Calf, one year<g ref="char:EOLhyphen"/>ling Heifer, prized by them but at the value of five pounds thirteen ſhillings ſix pence.</p>
+               <p>
+                  <hi>John Woollcott</hi> had taken from him by <hi>John Norwood</hi> Sheriff, becauſe he could not Train, to the value of five pounds five ſhillings.</p>
+               <p>
+                  <hi>VVilliam Read</hi> becauſe he could not Train, had taken from him one Servant, valued at four pounds ten ſhillings by them, which had about a year to ſerve, he being a very poor man, and his ſervant was accounted to be worth ſeven pound ten ſhillings.</p>
+               <p>
+                  <hi>Iſhmael Rite,</hi> and <hi>VVilliam Stockden,</hi> and <hi>Guy White,</hi> for not Training, the Sheriff <hi>VVilliam Courſey</hi> by order from Captain <hi>John Obdor</hi> hath violently taken from them to the value of ſeven pounds, and the Sheriff threatned to turn us out of our houſe and Plantation, <hi>John Askham</hi> Juſtice of Peace being by at that time; And further they arreſted <hi>Iſhmael Rite</hi> to the Court, and would have him to take the oath of a Conſtable, he refuſed to take the oath, but told them he would perform the office faithfully ſo far as his conſcience was clear, but that would not ſatisfie them, they threatned to fine him to the value of ſeven pounds ten ſhillings, the Sheriff took away for ſees to the value of forty five ſhillings.</p>
+               <p>
+                  <hi>John Holladay</hi> for not Training had taken from him the value in goods five pounds ſix ſhillings and three pence.</p>
+               <p>Again for not aſſiſting the Sheriff <hi>John Norwood,</hi> to take <hi>Thomas Thurston,</hi> was whipt ſeverely.</p>
+               <p>Theſe are not all the ſufferings by much which this poor people have undergone and not for evil doing, but for keeping Faith and a good Conſcience, which many hath put away and made ſhipwrack of, elſe all theſe inhumane, barbarous, cruel works of darkneſs could never have been brought forth, which hath ſhamed their Government and their Profeſſion.</p>
+               <pb n="32" facs="tcp:103495:19"/>
+               <p>Friend and friends, we having the word of a King, and again renewed by a Declaration, that we ſhould not ſuffer upon the account of Religion, and being given forth by you that have ſuffered for your Religion, and beyond the Sea, had more tolleration then in your own Nation: (which we have had the ſame likewiſe) and now in the Kings Name do we ſuffer, and ſpecially by ſuch as have been againſt You that be in authority, which is to get favour with you; And our Meetings are broken up with much violence, and haled out, and abuſed, and bruiſed, and thrown into waters, and many impriſoned and bruiſed to the dan<g ref="char:EOLhyphen"/>gering of their lives. And theſe things are done in your Names, and you may be unacquainted with them: Therefore they are laid before you, and given to you to conſider.</p>
+               <p>For if the liberty of your Conſciences (when you were baniſhed) had been re<g ref="char:EOLhyphen"/>ſtrained, and you had been forced to deny your Religion, it would have grieved you. Therefore conſider them now that be in your ſtate, who had rather die then offend God; And whether you do own thoſe things that are done in the Kings Name, yea or nay? If not, that there may be a reſtraint to their violence to ſtop the unmerciful men with their Clubs, and Staves, who are making havock of the Innocent, that they may not make the King a cloak to do wickedly; For your underſtandings have been exerciſed in theſe things who have known ſuffer<g ref="char:EOLhyphen"/>ings, by which you may the better feel and know the condition of others.</p>
+               <p>And now you may conſider the Law and the Prophets to do as you would be done by, and to ſhew mercy; For we are impriſoned becauſe we cannot take an Oath, the Oath of Allegiance and Supremacy, as before is expreſſed, the Servants of Chriſt, who commands them not to ſwear, but keep to yea and nay in all their Communications; And yet we are Impriſoned and Mangled, and miſ-called as Traytors, and threatned that our eſtates muſt be taken away, and confiſcated to the King, becauſe for conſcience ſake towards Chriſt, and in obedience to his Commands we do not ſwear. And many now knowing Friends principles that they cannot ſwear, do avenge themſelves upon them by tendering them the Oath, that would be much againſt the King if they had an oppertunity. Now theſe things being done in the Kings Name, we that ſuffers deſires to know whether You own that theſe things ſhould be done in his Name? For we gave forth an an<g ref="char:EOLhyphen"/>ſwer to the Oath of Allegiance and Supremacie which we preſented to You and the King, of which we deſire to have an anſwer from You; And whether You will own thoſe things; For we do not charge them upon the King, becauſe he gave forth the word of a King and a Declaration to the contrary; and as knowing who they are that are Actors of theſe things in the Nation, againſt Honeſt, Godly, Innocent, Harmleſs Servants of the Lord that loves Peace, and Righteouſneſs, and are for the eſtabliſhment of that in Truth.</p>
+               <p>For we are threatned (and they ſay) that we ſhall have no protection, becauſe we will not ſwear, and looked upon as Traytors that any man may kill us, if we will not ſwear, and have no protection from the Law, and from us our Goods is to be taken, and our families ſpoiled.</p>
+               <p>Therefore let Juſtice be done, and Judgment be divided a right, for that pre<g ref="char:EOLhyphen"/>ſerves both Government, and Magiſtrates, and a People in peace; And yet the Taxes and Seſſment of us required, and yet cannot have the benefit of the Law, which you do underſtand paying that, People may have their liberty in <hi>Turkie.</hi> Therefore theſe things are laid before the King and You, that You may under<g ref="char:EOLhyphen"/>ſtand (not as charged upon him) what things are done in his Name; That with Truth, Juſtice, Righteouſneſſe, and Wiſdom you may rule; And know the Law was not made for the Righteous, but for ſinners and tranſgreſſors, and that He and Ye all may diſtinguiſh between ſuch; For we were (in the dayes of <hi>O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iver</hi>) fined and impriſoned and ſlandered as Jeſuites and the like, becauſe we could not diſobey Chriſts Doctrine to ſwear, and take an Oath, our Principle is known through all theſe Dominions, and many other Nations, not to ſwear any
+<pb facs="tcp:103495:19"/> Oaths at all, whatſoever is an Oath being forbidden by Chriſt Jeſus, and upon no other account; and we have given forth a paper to that purpoſe unto the King; Now all other people doth not deny ſwearing upon this account (as we do) for Chriſts Command and Religion ſake, therefore other peoples condition is not ours, Who will ſwear, and doth not ſcruple taking an Oath upon this account (but for other ends) Therefore there muſt be diſtinction made betwixt us and them. Now if you ſhould ſay, To let us have our liberty (which was but to let Chriſts Commands be obeyed) this would let up others that ſay they cannot ſwear.</p>
+               <p>But then you muſt mind upon what account it is, for we have given our ac<g ref="char:EOLhyphen"/>count unto the King, and to the whole Dominion, and to the whole Chriſtendom, both in Word and Writing and Print; So we deſire you to give us an an<g ref="char:EOLhyphen"/>ſwer, Or to give forth ſomething to ſtop the proceeding of the forcing Oaths on us, and that we ſhall not be impriſoned upon this account, nor our goods ſpoil<g ref="char:EOLhyphen"/>ed to the ruine of our Families; for it is known that we could never ſwear in the dayes of <hi>Oliver,</hi> nor <hi>Richard,</hi> nor the Parliament, nor in the time of the Com<g ref="char:EOLhyphen"/>mittee of Safety, (ſo called) nor our friends beyond the Seas in other Nati<g ref="char:EOLhyphen"/>ons; Yet we have ſuffered more in this Nation then in any other Nation con<g ref="char:EOLhyphen"/>cerning that thing, not ſwearing; and if our yea be not yea, and nay nay, then let us be puniſhed for that (if <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doubt or queſtion) as much as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou would<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> do for not ſwearing; And if ye doubt or queſtion our faithfulneſs that lie in Priſons, and Irons, and Dungeons, becauſe we cannot take an Oath, let us be ſent for up before You to ſatisfie You further, for that Oaths is put the more in the enmity to us, becauſe they know we cannot ſwear, whereby the unjuſt thinks to revenge themſelves upon us, which there is no people in the Nation doth refuſe the Oath for Conſcience ſake but us; For they know that friends will ſtand to their principles, and therefore they know they can make ſpoil; And now it lies upon You to remedy theſe things, and to break the jaws of the wicked (as <hi>Job</hi> did) that rends the Innocent to pieces.</p>
+               <p>And our Friends and People beyond Sea, in <hi>Holland</hi> that cannot ſwear for Con<g ref="char:EOLhyphen"/>ſcience ſake to obey the comands of Chriſt, the Magiſtrates puts no oath to them, neither doth cauſe them to ſuffer, or lay any penalty upon them for not ſwearing, who keep to yea and nay in all their communications, according to Chriſts Doctrine and the Apoſtle, <hi>Mat.</hi> 5. chap. and <hi>James</hi> 5.</p>
+               <p>
+                  <hi>Acts</hi> the 17. <hi>Paul</hi> diſputed daily in the Market and in the Synogues, and this was their practice, and you may ſee the impatience of them oft-times in the Syna<g ref="char:EOLhyphen"/>gogues and Markets, and many times their patience of their hearing of him, which he calls Noble, and in the Church which the Apoſtles had planted, they might all ſpeak one by one, if any thing was revealed to him that ſat by, the firſt was to hold his peace, and this was the order in the Church of God, 2. <hi>Cor.</hi> 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. And now in the Churches ſo calld that are eſtabliſhed ſince the Apoſtles daies, if one that ſits by, ſomething be reveled to him from the Lord to ſpeak it forth, it is called di<g ref="char:EOLhyphen"/>ſturbance, and he is haled out and perſecuted; and if he bid people Repent in the Markets and ſtreets, that ſwears and curſes, and lyes and are drunkerds, they fall upon him with ſiſts and ſtaves and hales him before Magiſtrates, and caſts him into Priſon, as a peace-breaker, whereby truth hath not had ſo much liberty as Balad<g ref="char:EOLhyphen"/>ſingers, and ſinging ballads and jeſt Books in ſtreets; and if one aske a queſtion in the Synagogue; being not ſatisfied what another delivers or ſpeaks or diſputes upon, by them that be in the Synagogue they are haled out and caſt into priſon in ſteed of giving them ſatisfaction or convincing the gain-ſayers, if they were ſuch that did queſtion, which ſhews a degeneration amongſt the Chriſtians from the Apoſtles practice and command and life.</p>
+               <p>And armed and diſguiſed men have come into our meetings with naked ſwords falling upon Innocent harmleſs naked people in our meetings, and men carried out in the night and in winter ſeaſon and time of the ſnow, and there bound, and laid on hills.</p>
+               <pb facs="tcp:103495:20"/>
+               <p>And many caſt into naſty holes and deep dungeons, not ſuffered ſtraw, though the place was ſo bad that they ſtood almoſt over ſhoes in water, and trampled in mud and excrements and not ſuffered to have a little fire to take away the ſmels; and cruel Jaylors have thrown chamber potts full of excrements on our heads; and thus we have ſuffered by the profeſſors of Chriſts words, who have no ſuch example in the Scripture for theſe their practices, which ſhews they are thoſe that have the form of Godlineſs but denyes the Power, and from ſuch the Apoſtle bids turn away<g ref="char:punc">▪</g>
+               </p>
+               <p>And further ſixty of our Friends have heen ſued up (to appeare at <hi>London</hi>) by Prieſts and others this laſt term.</p>
+               <p>And you cannot ſay our meetings are tumultuous, for they are ſuch people as the Prieſts and Teachers of the world do teach, and be under their nature, that comes with clubs, ſtaves, ſtones, dirt, ſhoutings, making a noiſe, ſcoffs, mocks, reproches, ſlanders, which is a diſhonour to the Teachers, and not a grace to the Governors and Ruler, and they are they that makes tumults againſt whom we never lifted up a hand, but with meekneſs have patiently ſuffered, except it hath been to let you know that ſuch diſhonours the very profeſſion and Name of Chriſt and Government<g ref="char:punc">▪</g> and are a grief to the Righteous, and cauſes the way of Truth to be evil ſpoken of; and all that we deſire is that they that profeſs themſelves to be Teachers, teach their people the way of holineſs, and they that are Magiſtrates do bring them into the practice of civility, and that them that fear the Lord may live peaceably, that is our prayers, and that you may grace your Government, and your Teachers may do that, that their fruits may be ſo ſeen, that others may glorifie God, and that they might be followers of them as they are followers of Chriſt.</p>
+               <div n="Kent" type="county">
+                  <head>Kent.</head>
+                  <p>
+                     <hi>Edward Noakes</hi> of <hi>Word</hi> in Eaſt <hi>Kent</hi> farming Land at the rate of eighty pounds the year (for one years Tythes clamed, which was but twenty pounds, had taken from him goods to the value of one hundred pounds, and was kept two years and a half in priſon called the Kings Bench, beſides.</p>
+               </div>
+               <div n="Shropshire" type="county">
+                  <head>Shropſhire.</head>
+                  <p>We being peaceably met together in <hi>Shrowſbury</hi> this tenth Month, 1660. There came ſome Souldiers and broke up the meeting and had us to priſon, becauſe we could not for conſcience ſake take the Oath of Allegiance, being twenty one per<g ref="char:EOLhyphen"/>ſons.</p>
+                  <list>
+                     <item>
+                        <hi>Richard Moore</hi>
+                     </item>
+                     <item>
+                        <hi>John Shield</hi>
+                     </item>
+                     <item>
+                        <hi>Oliver Atherton</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Jackſon</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Ward</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Jefferis</hi>
+                     </item>
+                     <item>
+                        <hi>John Jefferis</hi>
+                     </item>
+                     <item>
+                        <hi>William Trotle</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Ienks</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Poyner</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Farmer</hi>
+                     </item>
+                     <item>
+                        <hi>Conſtantine Overton</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Payne</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Millington</hi>
+                     </item>
+                     <item>
+                        <hi>Owen Roberts</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Studly</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Sharply</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Averal</hi>
+                     </item>
+                     <item>
+                        <hi>Humphry Overton</hi>
+                     </item>
+                     <item>
+                        <hi>Francis VVinſor</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Rawſon</hi>
+                     </item>
+                  </list>
+               </div>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>A further Account being ſent up of more that are Impriſoned ſince the other in this Book were printed, which being added to the former, there is at preſent in priſon of our Friends, ſufferers for conſcience ſake, three hundred and ſeventeen perſons.</p>
+            <trailer>THE END</trailer>
+            <pb facs="tcp:103495:20" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
